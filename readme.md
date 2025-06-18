@@ -70,7 +70,7 @@
 | unsupported | ❌    |
 | unknown     | ❓    |
 
-Total count: **<!-- MODS_COUNT_1.21.5:START -->79<!-- MODS_COUNT_1.21.5:END -->**
+Total count: **<!-- MODS_COUNT_1.21.5:START -->81<!-- MODS_COUNT_1.21.5:END -->**
 
 <!-- MODS_1.21.5:START -->
 <img src="https://cdn.modrinth.com/data/lU8KbfG2/e5ee1b50379623f906c0e46882b827ece26c8dc8_96.webp" align="left" height="146" width="146" />
@@ -510,7 +510,7 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ##### Inventory Profiles Next
 
-Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.
+Take control over your inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.
 
 storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
@@ -779,6 +779,18 @@ Placeholder and Text manipulation library for your Minecraft mods.
 library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/placeholder-api) │ [Source](https://github.com/Patbox/TextPlaceholderAPI)
+
+---
+
+<img src="https://cdn.modrinth.com/data/7z0IZqoa/638aab9d568fb9f75ed1311e878a013532b3bde4_96.webp" align="left" height="146" width="146" />
+
+##### Rail Placement Fix
+
+Rail Placement Fix allows you to place rails more precisely. By sneaking and looking at the corner of a block, you can place curved rails or place sloped rails like a top-side slab.
+
+utility │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/rail-placement-fix) │ [Source](https://github.com/2No2Name/rail-placement-fix/)
 
 ---
 
