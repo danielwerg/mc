@@ -1,0 +1,15 @@
+#!/bin/bash
+
+seed_count_file=./seed_count
+[ -f "$seed_count_file" ] || echo "0" > "$seed_count_file"
+seed_count=$(cat "$seed_count_file")
+echo "seed count: $seed_count"
+
+sleep 30 && rcon -c ~/.config/rcon/rcon.yml -e mce --log ~/.local/state/rcon/mce.log \
+  "/say [seed count]: ${seed_count}" &
+
+./reset && ./start
+
+seed_count=$((seed_count + 1))
+echo "$seed_count" > "$seed_count_file"
+echo "seed count: $seed_count"

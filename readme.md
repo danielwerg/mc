@@ -22,7 +22,7 @@
 - [Minecraft Wiki](https://minecraft.wiki/)
 - [Minecraft News](https://www.minecraft.net/en-us/articles)
 - [Minecraft Tools](https://minecraft.tools/en) — Skin Stealer, Flat world generator, Enchant calculator (Feather Falling 4), Firework crafting, Banner crafting, Shield crafting, Beacon crafting, Coordinate calculator (region, entities), Text generators
-- [MC Utils](https://mcutils.com/) — Inventory Slots, Start File Generator, Skin Stealer, Color Codes, Banner Creator, Firework Creator
+- [MC Utils](https://mcutils.com/) — Inventory Slots, Start File Generator, Skin Stealer, Color Codes, Banner Creator, Firework Creator, Server Icon Converter
 - [Minecraft Enchantment Ordering Tool](https://iamcal.github.io/enchant-order/)
 - [Resource Calculator](https://resourcecalculator.com/minecraft)
 - [Pixel Circle / Oval Generator](https://donatstudios.com/PixelCircleGenerator)
@@ -31,8 +31,7 @@
 
 ## Tips
 
-`F3+Q` or
-
+- `F3+Q` print F3 menu help
 - `F3+F4` switch gamemode
 - `F3+G` toggle chunk borders
 - `F3+B` toggle hitboxes
@@ -41,12 +40,450 @@
 - `F3+T` reload resource pack (continious mouse hold trick)
 - `F3+H` toggle advanced tooltips
 - `F3+I` copy block or entity data
+- `F3+F6` customize F3 menu
+- `CTRL+Middle_Mouse` copy chest with contents in creative mode
 
 ## Versions
 
 > **NOTE**:
 >
 > Mods from [masa](https://modrinth.com/user/masa) (MiniHUD, Tweakeroo, Litematica and MaLiLib) not always updated to the newest Minecraft version, see forks from https://github.com/sakura-ryoko
+
+### 1.21.9
+
+<details>
+<summary>Expand</summary>
+
+#### Resource Packs
+
+- [Vanilla Tweaks](https://vanillatweaks.net/share#gbA4ZK)
+- [Eating Animation](https://modrinth.com/resourcepack/eating-animation-resourcepack)
+- [Val's Leaf Litter](https://modrinth.com/resourcepack/vals-leaf-litter)
+
+#### Mods
+
+| key         | emoji |
+|-------------|-------|
+| client      | 🖥️    |
+| server      | 🗄️    |
+| required    | ✔️    |
+| optional    | 🟡    |
+| unsupported | ❌    |
+| unknown     | ❓    |
+
+Total count: **<!-- MODS_COUNT_1.21.9:START -->34<!-- MODS_COUNT_1.21.9:END -->**
+
+<!-- MODS_1.21.9:START -->
+<img src="https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp" align="left" height="146" width="146" />
+
+##### Concurrent Chunk Management Engine (Fabric)
+
+A Fabric mod designed to improve the chunk performance of Minecraft.
+
+optimization │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/c2me-fabric) │ [Source](https://github.com/RelativityMC/C2ME-fabric)
+
+---
+
+<img src="https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png" align="left" height="146" width="146" />
+
+##### Chat Heads
+
+See who you're chatting with!
+
+decoration, social │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/chat-heads) │ [Source](https://github.com/dzwdz/chat_heads)
+
+---
+
+<img src="https://cdn.modrinth.com/data/fJi8nm80/5ea9aeeb89e08524310ae9e6b71f793e2ba63e0f_96.webp" align="left" height="146" width="146" />
+
+##### ClickThrough Plus
+
+Click through Signs and Item Frames to Chests and other containers - a port of ClickThrough to Architectury.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/clickthrough+) │ [Source](https://github.com/cassiancc/ClickThrough-Plus)
+
+---
+
+<img src="https://cdn.modrinth.com/data/7Coz83fv/76df7a8a5563f83c998be7ac8572964da59306c8_96.webp" align="left" height="146" width="146" />
+
+##### clientcommands
+
+Adds useful client-side commands 
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/client-commands) │ [Source](https://github.com/Earthcomputer/clientcommands)
+
+---
+
+<img src="https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp" align="left" height="146" width="146" />
+
+##### Cloth Config API
+
+Configuration Library for Minecraft Mods
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/cloth-config) │ [Source](https://github.com/shedaniel/ClothConfig/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/e0M1UDsY/f5e4fe9ac298e2c14591920d6bda937c566accd0_96.webp" align="left" height="146" width="146" />
+
+##### Collective
+
+🎓 Collective is a shared library with common code for all of Serilum's mods.
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/collective) │ [Source](https://github.com/Serilum/Collective)
+
+---
+
+<img src="https://cdn.modrinth.com/data/7T4TeOKj/cdc11ed4967af60dd8558997350936cdd06bdf61_96.webp" align="left" height="146" width="146" />
+
+##### Creative One-Punch
+
+One-Punch any entity while in creative mode
+
+utility │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/creative-one-punch) │ [Source](https://github.com/Fourmisain/CreativeOnePunch)
+
+---
+
+<img src="https://cdn.modrinth.com/data/c85whkNB/419e8bc32e8ab5b7b63a7388c1319106365f99e1_96.webp" align="left" height="146" width="146" />
+
+##### Cycle Paintings
+
+🖼️ Easily cycle through placed paintings by right-clicking them with another painting in hand.
+
+– │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/cycle-paintings) │ [Source](https://github.com/Serilum/Cycle-Paintings)
+
+---
+
+<img src="https://cdn.modrinth.com/data/T8MMXTpr/d338decae13e71b934605932901921c4d72b8b6f_96.webp" align="left" height="146" width="146" />
+
+##### Drip Sounds
+
+Adds sounds for drip particles landing & settings for block particles
+
+decoration │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/dripsounds) │ [Source](https://github.com/PieKing1215/DripSounds-Fabric)
+
+---
+
+<img src="https://cdn.modrinth.com/data/smUP7V3r/icon.png" align="left" height="146" width="146" />
+
+##### Durability Tooltip
+
+Durability Tooltip shows you the durability of an item!
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/durability-tooltip) │ [Source](https://github.com/SuperMartijn642/DurabilityTooltip)
+
+---
+
+<img src="https://cdn.modrinth.com/data/JIUF2Wb5/74cccf769bd5dc23e4f7fba54823e941f2afb9f7.png" align="left" height="146" width="146" />
+
+##### Effect Timer Plus
+
+Adds a potency and time indicator overlay to status effect icons.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/effecttimerplus) │ [Source](https://github.com/TerminalMC/EffectTimerPlus)
+
+---
+
+<img src="https://cdn.modrinth.com/data/P7dR8mSH/icon.png" align="left" height="146" width="146" />
+
+##### Fabric API
+
+Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/fabric-api) │ [Source](https://github.com/FabricMC/fabric)
+
+---
+
+<img src="https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp" align="left" height="146" width="146" />
+
+##### FerriteCore
+
+Memory usage optimizations
+
+optimization, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/ferrite-core) │ [Source](https://github.com/malte0811/FerriteCore)
+
+---
+
+<img src="https://cdn.modrinth.com/data/siXFh9dn/icon.png" align="left" height="146" width="146" />
+
+##### Fix Keyboard on Linux
+
+This is a simple mod which fixes some annoying bugs related to keyboard on Linux.
+
+– │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/fix-keyboard-on-linux) │ [Source](https://github.com/ishland/fix-keyboard-on-linux)
+
+---
+
+<img src="https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp" align="left" height="146" width="146" />
+
+##### ImmediatelyFast
+
+Speed up immediate mode rendering in Minecraft
+
+optimization │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/immediatelyfast) │ [Source](https://github.com/RaphiMC/ImmediatelyFast)
+
+---
+
+<img src="https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp" align="left" height="146" width="146" />
+
+##### Iris Shaders
+
+A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs
+
+decoration, optimization │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/iris) │ [Source](https://github.com/IrisShaders/Iris)
+
+---
+
+<img src="https://cdn.modrinth.com/data/yBW8D80W/d4f5c3ff8df7caf024178b04eca6d69f95979cfe_96.webp" align="left" height="146" width="146" />
+
+##### LambDynamicLights - Dynamic Lights
+
+Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod.
+
+adventure, decoration, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/lambdynamiclights) │ [Source](https://github.com/LambdAurora/LambDynamicLights)
+
+---
+
+<img src="https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png" align="left" height="146" width="146" />
+
+##### Litematica
+
+A client-side schematic mod with extra features for creative mode work
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/litematica) │ [Source](https://github.com/maruohon/litematica/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp" align="left" height="146" width="146" />
+
+##### Lithium
+
+No-compromises game logic optimization mod. Well suited for clients and servers of all kinds. Now available for Fabric and NeoForge!
+
+optimization │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/lithium) │ [Source](https://github.com/caffeinemc/lithium-fabric)
+
+---
+
+<img src="https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png" align="left" height="146" width="146" />
+
+##### MaLiLib
+
+A library mod for client-side mods. Contains most of the common/shared code of masa's client mods, and adds some inter-operation support between the dependent mods.
+
+library, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/malilib) │ [Source](https://github.com/maruohon/malilib/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/UMxybHE8/4adf057a251f694983af139a06839e33bcd7a419.png" align="left" height="146" width="146" />
+
+##### MiniHUD
+
+A "mini F3" HUD mod, also with various overlays like light level, spawn chunks, slime chunks etc.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/minihud) │ [Source](https://github.com/maruohon/minihud/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/51shyZVL/c51b07193b56e952269ef50101d12aecba2b4747_96.webp" align="left" height="146" width="146" />
+
+##### More Culling
+
+A mod that changes how multiple types of culling are handled in order to improve performance
+
+library, optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/moreculling) │ [Source](https://github.com/fxmorin/moreculling)
+
+---
+
+<img src="https://cdn.modrinth.com/data/JHgf35QL/003007cfbe48cb6ab67746e103dc6b07a6d4b96e_96.webp" align="left" height="146" width="146" />
+
+##### Nemo's Inventory Sorting
+
+Automatically sort your inventory with just a button!
+
+storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/nemos-inventory-sorting) │ [Source](https://github.com/NemoNotFound/NemosInventorySorting)
+
+---
+
+<img src="https://cdn.modrinth.com/data/hg77g4Pw/9ee939038bcd1e729d3b1ac571c5bd3935b5f7b7_96.webp" align="left" height="146" width="146" />
+
+##### No Telemetry
+
+Disable the telemetry introduced in 21w38a
+
+– │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/no-telemetry) │ [Source](https://github.com/kb-1000/no-telemetry)
+
+---
+
+<img src="https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp" align="left" height="146" width="146" />
+
+##### Particle Effects
+
+Visual Mod which adds unique textured particles for every effect in vanilla Minecraft!
+
+decoration, game-mechanics, magic │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/particle-effects) │ [Source](https://github.com/LopyMine/Particle-Effects)
+
+---
+
+<img src="https://cdn.modrinth.com/data/eXts2L7r/e9c9990896e6422bffc5f73d2c41b8f077348f83.png" align="left" height="146" width="146" />
+
+##### Text Placeholder API
+
+Placeholder and Text manipulation library for your Minecraft mods.
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/placeholder-api) │ [Source](https://github.com/Patbox/TextPlaceholderAPI)
+
+---
+
+<img src="https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp" align="left" height="146" width="146" />
+
+##### ScalableLux
+
+A Fabric mod based on Starlight that improves the performance of light updates in Minecraft.
+
+optimization │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/scalablelux) │ [Source](https://github.com/RelativityMC/ScalableLux)
+
+---
+
+<img src="https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp" align="left" height="146" width="146" />
+
+##### Shulker Box Tooltip
+
+View the contents of shulker boxes from your inventory
+
+storage, utility │ 🖥️: ✔️ │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/shulkerboxtooltip) │ [Source](https://github.com/MisterPeModder/ShulkerBoxTooltip)
+
+---
+
+<img src="https://cdn.modrinth.com/data/EIa1eiMm/7ea3bc26470ba1f45b1c980d5058b033a752396b_96.webp" align="left" height="146" width="146" />
+
+##### Sodium Shadowy Path Blocks
+
+Reintroduces vanilla-like smooth lighting to non-full blocks (e.g. dirt paths and how they have dark shading when directly next to a full block) when using Sodium. 
+
+decoration │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/sodium-shadowy-path-blocks) │ [Source](https://github.com/Rynnavinx/sodium-shadowy-path-blocks)
+
+---
+
+<img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" align="left" height="146" width="146" />
+
+##### Sodium
+
+The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!
+
+optimization │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/sodium) │ [Source](https://github.com/CaffeineMC/sodium)
+
+---
+
+<img src="https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png" align="left" height="146" width="146" />
+
+##### Sound Physics Remastered
+
+A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.
+
+adventure, utility │ 🖥️: ✔️ │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/sound-physics-remastered) │ [Source](https://github.com/henkelmax/sound-physics-remastered)
+
+---
+
+<img src="https://cdn.modrinth.com/data/LN9BxssP/ad25597dd1b10b49cdfbc97c70d401e3158000f7_96.webp" align="left" height="146" width="146" />
+
+##### SuperMartijn642's Config Lib
+
+Config Lib makes dealing with config files just a bit easier.
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib) │ [Source](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib)
+
+---
+
+<img src="https://cdn.modrinth.com/data/bfneejKo/0792df2997b30cfa6d3e9e510d38b5c7f6ada442_96.webp" align="left" height="146" width="146" />
+
+##### Syncmatica
+
+Syncmatica is a mod which aims to mod into litematica so that schematics and their placements can be easily shared.
+
+utility │ 🖥️: ✔️ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/syncmatica) │ [Source](https://github.com/End-Tech/syncmatica)
+
+---
+
+<img src="https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp" align="left" height="146" width="146" />
+
+##### YetAnotherConfigLib (YACL)
+
+A builder-based configuration library for Minecraft.
+
+library, management, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/yacl) │ [Source](https://github.com/isXander/YetAnotherConfigLib)
+<!-- MODS_1.21.9:END -->
+
+---
+
+</details>
 
 ### 1.21.5
 
@@ -1047,6 +1484,8 @@ library, management, utility │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/yacl) │ [Source](https://github.com/isXander/YetAnotherConfigLib)
 <!-- MODS_1.21.5:END -->
+
+---
 
 </details>
 
