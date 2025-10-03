@@ -80,9 +80,69 @@
 | unsupported | ❌    |
 | unknown     | ❓    |
 
-Total count: **<!-- MODS_COUNT_1.21.9:START -->34<!-- MODS_COUNT_1.21.9:END -->**
+Total count: **<!-- MODS_COUNT_1.21.9:START -->64<!-- MODS_COUNT_1.21.9:END -->**
 
 <!-- MODS_1.21.9:START -->
+<img src="https://cdn.modrinth.com/data/6tlhZmC5/icon.png" align="left" height="146" width="146" />
+
+##### Axolotl Buckets
+
+Show the color and age of axolotls when in buckets.
+
+decoration │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/axolotl-buckets) │ [Source](https://github.com/Roundaround/mc-fabric-axolotl-buckets)
+
+---
+
+<img src="null" align="left" height="146" width="146" />
+
+##### BadOptimizations
+
+Optimization mod that focuses on things other than rendering
+
+optimization │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/badoptimizations) │ [Source](https://github.com/ItsThosea/BadOpitmizations)
+
+---
+
+<img src="https://cdn.modrinth.com/data/aWsnMli6/cb28e9b5d612bcf1469c4424c8820c18df97a9ce.png" align="left" height="146" width="146" />
+
+##### Better Game Mode Switcher
+
+Makes the game mode switcher (F3+F4) never preselect Spectator, and enables it even without operator permissions.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/better-game-mode-switcher) │ [Source](https://github.com/MDLC01/better-game-mode-switcher-mc)
+
+---
+
+<img src="https://cdn.modrinth.com/data/s4DtR8IM/19f360537a5725c8da14cba07b6d61d174c9d7f2.png" align="left" height="146" width="146" />
+
+##### Better "Add Server"
+
+Some small quality of life changes for the "add server" menu
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/betteraddserver) │ [Source](https://github.com/Player005/BetterAddServer)
+
+---
+
+<img src="https://cdn.modrinth.com/data/IN9qauZM/19ce58d1070c0d10cf8d21f3c3f6a1fe68faea2c_96.webp" align="left" height="146" width="146" />
+
+##### Bundle as Quiver
+
+Use a bundle as storage to shoot arrows for bows and crossbows!
+
+adventure, equipment, utility │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/bundle-as-quiver) │ [Source](null)
+
+---
+
 <img src="https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp" align="left" height="146" width="146" />
 
 ##### Concurrent Chunk Management Engine (Fabric)
@@ -104,6 +164,18 @@ See who you're chatting with!
 decoration, social │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/chat-heads) │ [Source](https://github.com/dzwdz/chat_heads)
+
+---
+
+<img src="https://cdn.modrinth.com/data/Iudurxl8/401494fe1b9b1259127f1bbc4a2bdb549047da55.png" align="left" height="146" width="146" />
+
+##### Chat Notify
+
+Plays a ping sound when your name is mentioned, with options to create custom alerts.
+
+social, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/chatnotify) │ [Source](https://github.com/TerminalMC/ChatNotify)
 
 ---
 
@@ -155,6 +227,30 @@ library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/4sQDl6he/65a5ffe23238a5ecc8495fc9915a1539dd9ac81f_96.webp" align="left" height="146" width="146" />
+
+##### Colorize
+
+Right click with the dye on some blocks to color them!
+
+game-mechanics │ 🖥️: ✔️ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/colorize) │ [Source](https://github.com/PanSzelescik/colorize)
+
+---
+
+<img src="https://cdn.modrinth.com/data/65UyswbY/d3b3bb722591aef4312e67efe4e93d91341e97a7_96.webp" align="left" height="146" width="146" />
+
+##### Command Keys
+
+A powerful command macro mod.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/commandkeys) │ [Source](https://github.com/TerminalMC/CommandKeys/)
+
+---
+
 <img src="https://cdn.modrinth.com/data/7T4TeOKj/cdc11ed4967af60dd8558997350936cdd06bdf61_96.webp" align="left" height="146" width="146" />
 
 ##### Creative One-Punch
@@ -179,6 +275,18 @@ utility │ 🖥️: ❌ │ 🗄️: ✔️
 
 ---
 
+<img src="https://cdn.modrinth.com/data/JzSeqW5I/230ea5ca139e7a5c8bdd52a0ee2d157bd666444e.png" align="left" height="146" width="146" />
+
+##### DontDisruptMyLocatorBar
+
+Prevents hiding of the locator bar on certain actions (breaking, placing blocks, etc...)
+
+adventure, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/dontdisruptmylocatorbar) │ [Source](https://github.com/JustAlittleWolf/DontDisruptMyLocatorBar)
+
+---
+
 <img src="https://cdn.modrinth.com/data/T8MMXTpr/d338decae13e71b934605932901921c4d72b8b6f_96.webp" align="left" height="146" width="146" />
 
 ##### Drip Sounds
@@ -191,6 +299,18 @@ decoration │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/IMch8an1/81ec6fe5a1258e6c05df46790c0c2db345c1b4ed.png" align="left" height="146" width="146" />
+
+##### DualBar
+
+Show the locator bar icons over the experience bar.
+
+game-mechanics, social, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/dualbar) │ [Source](https://git.envs.net/piuvas/dualbar)
+
+---
+
 <img src="https://cdn.modrinth.com/data/smUP7V3r/icon.png" align="left" height="146" width="146" />
 
 ##### Durability Tooltip
@@ -200,6 +320,18 @@ Durability Tooltip shows you the durability of an item!
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/durability-tooltip) │ [Source](https://github.com/SuperMartijn642/DurabilityTooltip)
+
+---
+
+<img src="https://cdn.modrinth.com/data/6kKLK5i1/e4bd057acb4d26b0e94b96761381b8defcff2058.png" align="left" height="146" width="146" />
+
+##### Eclipse's Tweakeroo Additions
+
+Eclipse's Tweakeroo Additions (often referred to as just Eclipse's Tweakeroo) is a modular utility mod for Minecraft.
+
+game-mechanics, technology, utility │ 🖥️: ✔️ │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/eclipses-tweakeroo-additions) │ [Source](https://github.com/eclipseisoffline/eclipsestweakeroo)
 
 ---
 
@@ -224,6 +356,18 @@ Lightweight and modular API providing common hooks and intercompatibility measur
 library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/fabric-api) │ [Source](https://github.com/FabricMC/fabric)
+
+---
+
+<img src="https://cdn.modrinth.com/data/9mtu0sUO/dca186a8a57d45ad06e88de6cfc45d4cc4c6a0ba.png" align="left" height="146" width="146" />
+
+##### Fast IP Ping
+
+Yeet the laggy reversed DNS lookup for literal IP server addresses
+
+optimization │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/fast-ip-ping) │ [Source](https://github.com/Fallen-Breath/fast-ip-ping)
 
 ---
 
@@ -311,6 +455,18 @@ optimization │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/hgj0GFLy/8b5578755ed344d13829bd10a5af73f433076200_96.webp" align="left" height="146" width="146" />
+
+##### LookAtPlayer
+
+Looking at a nearby player while AFK
+
+social, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/lookatplayer) │ [Source](https://github.com/Teashoe/LookAtPlayer)
+
+---
+
 <img src="https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png" align="left" height="146" width="146" />
 
 ##### MaLiLib
@@ -320,6 +476,18 @@ A library mod for client-side mods. Contains most of the common/shared code of m
 library, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/malilib) │ [Source](https://github.com/maruohon/malilib/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/gzfqBTYf/cabc8ca77b6f05d4c4d052666551d087e03f03dd.png" align="left" height="146" width="146" />
+
+##### MC-258859
+
+Improves visuals of Snowy Slopes, Frozen Peaks, Jagged Peaks, Terralith & more by fixing what Minecraft classifies as a 'slope'
+
+management, optimization, worldgen │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/mc-258859) │ [Source](null)
 
 ---
 
@@ -335,6 +503,30 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/qap5C41G/0e6acc2f3548f392c8d5c760d9c27cf736783927_96.webp" align="left" height="146" width="146" />
+
+##### ModListMemory
+
+Moves recently-opened mods to the top of the mod list, or remembers your scroll position.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/modlistmemory) │ [Source](https://github.com/TerminalMC/ModListMemory)
+
+---
+
+<img src="https://cdn.modrinth.com/data/mOgUt4GM/1bfe2006b38340e9d064700e41adf84a8abb1bd4_96.webp" align="left" height="146" width="146" />
+
+##### Mod Menu
+
+Adds a mod menu to view the list of mods you have installed.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/modmenu) │ [Source](https://github.com/TerraformersMC/ModMenu)
+
+---
+
 <img src="https://cdn.modrinth.com/data/51shyZVL/c51b07193b56e952269ef50101d12aecba2b4747_96.webp" align="left" height="146" width="146" />
 
 ##### More Culling
@@ -344,6 +536,18 @@ A mod that changes how multiple types of culling are handled in order to improve
 library, optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/moreculling) │ [Source](https://github.com/fxmorin/moreculling)
+
+---
+
+<img src="https://cdn.modrinth.com/data/XIIGRXeq/3a922be8a8af3b255ee2e57160d7bb3287168df6.png" align="left" height="146" width="146" />
+
+##### NBT Copy
+
+Adds copy button for the "/data get" command output
+
+utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/nbt-copy) │ [Source](https://github.com/mt1006/mc-nbtcopy-mod)
 
 ---
 
@@ -371,6 +575,30 @@ Disable the telemetry introduced in 21w38a
 
 ---
 
+<img src="https://cdn.modrinth.com/data/eNF4Bfla/c7890dd5aba0201bd770f4bb9c3790cf924e297d.png" align="left" height="146" width="146" />
+
+##### Now Playing
+
+Displays a "Now Playing" popup whenever the music changes.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/now-playing) │ [Source](https://github.com/Scotsguy/now-playing)
+
+---
+
+<img src="https://cdn.modrinth.com/data/gmVdcG6g/d0f3cdd791ca2a57a43ea6f977b694ae6fe858e9_96.webp" align="left" height="146" width="146" />
+
+##### One Click Join
+
+Instantly join your last Minecraft server from the main menu!
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/one-click-join) │ [Source](https://github.com/caoimhebyrne/one-click-join)
+
+---
+
 <img src="https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp" align="left" height="146" width="146" />
 
 ##### Particle Effects
@@ -380,6 +608,18 @@ Visual Mod which adds unique textured particles for every effect in vanilla Mine
 decoration, game-mechanics, magic │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/particle-effects) │ [Source](https://github.com/LopyMine/Particle-Effects)
+
+---
+
+<img src="https://cdn.modrinth.com/data/QQXAdCzh/6d15088ddd1e07abcba1a2e796d1f9c7a3138b1d_96.webp" align="left" height="146" width="146" />
+
+##### Ping Wheel
+
+Allows players to temporarily mark locations and entities
+
+social, utility │ 🖥️: ✔️ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/ping-wheel) │ [Source](https://github.com/LukenSkyne/Minecraft-Ping-Wheel)
 
 ---
 
@@ -395,6 +635,30 @@ library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/7z0IZqoa/638aab9d568fb9f75ed1311e878a013532b3bde4_96.webp" align="left" height="146" width="146" />
+
+##### Rail Placement Fix
+
+Rail Placement Fix allows you to place rails more precisely. By sneaking and looking at the corner of a block, you can place curved rails or place sloped rails like a top-side slab.
+
+utility │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/rail-placement-fix) │ [Source](https://github.com/2No2Name/rail-placement-fix/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/kwS02byl/4ca19b43027b2ac0e1c9580e52aa9cf7fd674e28.png" align="left" height="146" width="146" />
+
+##### Riding Mouse Fix
+
+Fixes the sluggishness of the mouse when riding on entities.
+
+optimization │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/ridingmousefix) │ [Source](https://github.com/JustAlittleWolf/RidingMouseFix)
+
+---
+
 <img src="https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp" align="left" height="146" width="146" />
 
 ##### ScalableLux
@@ -407,6 +671,30 @@ optimization │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/ExI7GmJi/486442e11cbb4ab5f887e7f86ff041787d967c89_96.webp" align="left" height="146" width="146" />
+
+##### Search Stats
+
+Adds a search bar to the statistics screen to quickly find specific entries.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/searchstats) │ [Source](https://github.com/TerminalMC/SearchStats)
+
+---
+
+<img src="https://cdn.modrinth.com/data/iqK5uv72/c060f8af5120833b3758f953f3663d3efaa3ae06.png" align="left" height="146" width="146" />
+
+##### Server Pinger Fixer
+
+Improves pinging speed of the multiplayer server list
+
+optimization │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/serverpingerfixer) │ [Source](https://github.com/JustAlittleWolf/ServerPingerFixer)
+
+---
+
 <img src="https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp" align="left" height="146" width="146" />
 
 ##### Shulker Box Tooltip
@@ -416,6 +704,18 @@ View the contents of shulker boxes from your inventory
 storage, utility │ 🖥️: ✔️ │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/shulkerboxtooltip) │ [Source](https://github.com/MisterPeModder/ShulkerBoxTooltip)
+
+---
+
+<img src="https://cdn.modrinth.com/data/c7xDMxha/fbf2c5803e13cac5b7f23bec6b41c78e638dc2e1.png" align="left" height="146" width="146" />
+
+##### Sign Edit
+
+Enhances the built-in sign editor.
+
+social, utility │ 🖥️: ❓ │ 🗄️: ❓
+
+[Modrinth](https://modrinth.com/mod/signedit) │ [Source](https://github.com/TerminalMC/SignEdit)
 
 ---
 
@@ -455,6 +755,43 @@ adventure, utility │ 🖥️: ✔️ │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/EdBSdqge/c3683238ee4b794847a1987dfe36feca07aca670.png" align="left" height="146" width="146" />
+
+##### Spyglass Astronomy
+
+Draw your own constellations on an interactive and improved night sky.
+An immersive overhaul of the space skybox, including planets and better stars.
+
+decoration │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/spyglass-astronomy) │ [Source](https://github.com/Nettakrim/Spyglass-Astronomy)
+
+---
+
+<img src="https://cdn.modrinth.com/data/MBLj38R0/icon.png" align="left" height="146" width="146" />
+
+##### Suggestion Tweaker
+
+Improves the way suggestions are filtered and sorted when writing a command
+
+utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/suggestion-tweaker) │ [Source](https://github.com/VelizarBG/suggestion-tweaker)
+
+---
+
+<img src="https://cdn.modrinth.com/data/7lrBqj5C/069d6d465bff19c45a4573bb0054369f261ec1fd_96.webp" align="left" height="146" width="146" />
+
+##### Superflat World No Slimes
+
+🙅 Removes those pesky slimes when you're trying to be creative in a superflat world.
+
+management, mobs, utility │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/superflat-world-no-slimes) │ [Source](https://github.com/Serilum/Superflat-World-No-Slimes)
+
+---
+
 <img src="https://cdn.modrinth.com/data/LN9BxssP/ad25597dd1b10b49cdfbc97c70d401e3158000f7_96.webp" align="left" height="146" width="146" />
 
 ##### SuperMartijn642's Config Lib
@@ -476,6 +813,30 @@ Syncmatica is a mod which aims to mod into litematica so that schematics and the
 utility │ 🖥️: ✔️ │ 🗄️: ✔️
 
 [Modrinth](https://modrinth.com/mod/syncmatica) │ [Source](https://github.com/End-Tech/syncmatica)
+
+---
+
+<img src="https://cdn.modrinth.com/data/2MgfuPip/fad70dcc98905207db6e6a046c3ffd0c64247162.png" align="left" height="146" width="146" />
+
+##### Tag Tooltips
+
+Adds a keybind to show an item's tags in its tooltip. Handy for tag-based sorting systems and debugging!
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/tag-tooltips) │ [Source](https://github.com/J4gm/tagtooltips)
+
+---
+
+<img src="https://cdn.modrinth.com/data/JzMHENsS/3e8033c6b4a41f11d3dc62782d846f9ebe954d20_96.webp" align="left" height="146" width="146" />
+
+##### Trade Uses
+
+Shows how many times you can use a trade before restock.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/trade-uses) │ [Source](https://github.com/Khajiitos/TradeUses)
 
 ---
 
