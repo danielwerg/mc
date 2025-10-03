@@ -7,6 +7,7 @@
 - [Launcher](#Launcher)
 - [Resources](#Resources)
 - [Tips](#Tips)
+- [Commands](#Commands)
 - [Versions](#Versions)
 
 ### Launcher
@@ -42,6 +43,14 @@
 - `F3+I` copy block or entity data
 - `F3+F6` customize F3 menu
 - `CTRL+Middle_Mouse` copy chest with contents in creative mode
+
+## Commands
+
+### Over 64 items in a stack
+
+```
+/give @p diamond[minecraft:max_stack_size=99] 65
+```
 
 ## Versions
 
