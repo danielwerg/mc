@@ -2,7 +2,7 @@
 
 instances_dir="$HOME/.local/share/PrismLauncher/instances"
 key_prefix="MODS"
-img_size=146
+img_size=160
 separator="│"
 
 sub_key=$1
@@ -72,6 +72,9 @@ for file in "$mods_data_dir"/*; do
   categories=$(echo "$project" | jq -r '.categories | join(", ")')
   [ -z "$categories" ] && categories="–"
   icon_url=$(echo "$project" | jq -r '.icon_url')
+  if [ "$icon_url" == "null" ]; then
+    icon_url="https://cdn.modrinth.com/data/P7dR8mSH/icon.png"
+  fi
   source_url=$(echo "$project" | jq -r '.source_url')
   client_side=$(echo "$project" | jq -r '.client_side')
   server_side=$(echo "$project" | jq -r '.server_side')
