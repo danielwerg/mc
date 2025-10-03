@@ -1,6 +1,6 @@
 # Minecraft
 
-⛏️ Personal collection of must-have minecraft _things_.
+⛏️ Personal collection of minecraft _things_.
 
 ## Table of Contents
 
@@ -65,7 +65,7 @@
 
 #### Resource Packs
 
-- [Vanilla Tweaks](https://vanillatweaks.net/share#gbA4ZK)
+- [Vanilla Tweaks](https://vanillatweaks.net/share#ZWmSoK)
 - [Eating Animation](https://modrinth.com/resourcepack/eating-animation-resourcepack)
 - [Val's Leaf Litter](https://modrinth.com/resourcepack/vals-leaf-litter)
 
