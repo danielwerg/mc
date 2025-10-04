@@ -29,6 +29,9 @@
 - [Pixel Circle / Oval Generator](https://donatstudios.com/PixelCircleGenerator)
 - [Curve Generator](https://iseenbaas.nl/curve/)
 - [Server MOTD Creator](https://mctools.org/motd-creator)
+- [MCPacks - resource pack hosting](https://mc-packs.net/)
+- [Data Pack Generators](https://misode.github.io/)
+- [Resource Pack Merger](https://merge.elmakers.com/)
 
 ## Tips
 
