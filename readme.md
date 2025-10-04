@@ -80,9 +80,27 @@
 | unsupported | ❌    |
 | unknown     | ❓    |
 
-Total count: **<!-- MODS_COUNT_1.21.9:START -->64<!-- MODS_COUNT_1.21.9:END -->**
+Total count: **<!-- MODS_COUNT_1.21.9:START -->78<!-- MODS_COUNT_1.21.9:END -->**
+
+Waiting for 1.21.9 support:
+
+- [Spyglass Improvments](https://modrinth.com/mod/spyglass-improvements/versions)
+- [AmbientSounds](https://modrinth.com/mod/ambientsounds/versions)
+- [Particle Rain](https://modrinth.com/mod/particle-rain/versions)
 
 <!-- MODS_1.21.9:START -->
+<img src="https://cdn.modrinth.com/data/sSulVw0M/841a509ae695a051a13f7c97907f9132ee14bd22.png" align="left" height="160" width="160" />
+
+##### Anvil Uses
+
+Shows how many times an anvil has been used on an item.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/anvil-uses) │ [Source](https://github.com/Z1proW/Anvil-Uses)
+
+---
+
 <img src="https://cdn.modrinth.com/data/6tlhZmC5/icon.png" align="left" height="160" width="160" />
 
 ##### Axolotl Buckets
@@ -107,6 +125,18 @@ optimization │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/MBAkmtvl/285b7bcfd6e525c043e640b08f3efc0cde90f7dd_96.webp" align="left" height="160" width="160" />
+
+##### Balm
+
+Abstraction Layer for Multiplatform Mods
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/balm) │ [Source](https://github.com/TwelveIterationMods/Balm)
+
+---
+
 <img src="https://cdn.modrinth.com/data/aWsnMli6/cb28e9b5d612bcf1469c4424c8820c18df97a9ce.png" align="left" height="160" width="160" />
 
 ##### Better Game Mode Switcher
@@ -119,15 +149,27 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
-<img src="https://cdn.modrinth.com/data/s4DtR8IM/19f360537a5725c8da14cba07b6d61d174c9d7f2.png" align="left" height="160" width="160" />
+<img src="https://cdn.modrinth.com/data/kqJFAPU9/2347cd97d4d4a5f87842dccebd8eba211d77d37a_96.webp" align="left" height="160" width="160" />
 
-##### Better "Add Server"
+##### Better Mount HUD
 
-Some small quality of life changes for the "add server" menu
+Improves the ingame HUD while riding a mount
 
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
-[Modrinth](https://modrinth.com/mod/betteraddserver) │ [Source](https://github.com/Player005/BetterAddServer)
+[Modrinth](https://modrinth.com/mod/better-mount-hud) │ [Source](https://github.com/Lortseam/better-mount-hud)
+
+---
+
+<img src="https://cdn.modrinth.com/data/Y5DGNK4o/e7996aed9d8167ca62a8d19ed289a8458a993c6b.png" align="left" height="160" width="160" />
+
+##### Better Saved Hotbars
+
+This mod allows you to drag items into the saved hotbars tab and remove them by middle clicking!
+
+management, storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/better-saved-hotbars) │ [Source](https://github.com/LukynkaCZE/better-saved-hotbars/)
 
 ---
 
@@ -200,6 +242,18 @@ Adds useful client-side commands
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/client-commands) │ [Source](https://github.com/Earthcomputer/clientcommands)
+
+---
+
+<img src="https://cdn.modrinth.com/data/vPNqo58Q/a9144fbd356f92c39be0e5b70d73136ac37fe0f6_96.webp" align="left" height="160" width="160" />
+
+##### Client Tweaks
+
+There, I fixed Minecraft for you. Various optional tweaks to improve Minecraft Quality of Life. 
+
+game-mechanics, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/client-tweaks) │ [Source](https://github.com/TwelveIterationMods/ClientTweaks)
 
 ---
 
@@ -311,15 +365,27 @@ game-mechanics, social, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
-<img src="https://cdn.modrinth.com/data/smUP7V3r/icon.png" align="left" height="160" width="160" />
+<img src="https://cdn.modrinth.com/data/na1dL51S/e33af1a740a12f4abfa50e0df835c118f8ddb546.png" align="left" height="160" width="160" />
 
-##### Durability Tooltip
+##### Durability Plus
 
-Durability Tooltip shows you the durability of an item!
+Adds simple and elegant item durability tooltips.
 
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
-[Modrinth](https://modrinth.com/mod/durability-tooltip) │ [Source](https://github.com/SuperMartijn642/DurabilityTooltip)
+[Modrinth](https://modrinth.com/mod/durability-plus) │ [Source](https://github.com/ddeeddii/DurabilityPlus)
+
+---
+
+<img src="https://cdn.modrinth.com/data/AZoGQeFf/292ed35ef2d1f63c4a7c6ed233b9a4e3de4a1dbb.png" align="left" height="160" width="160" />
+
+##### EasyMute
+
+Fabric mod that adds a keybind for muting and unmuting the game.
+
+management, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/easymute) │ [Source](https://github.com/bilektugrul/EasyMute/)
 
 ---
 
@@ -347,6 +413,18 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/8SrsIkt3/578d1858abd137b13966858866975024e11af8fa_96.webp" align="left" height="160" width="160" />
+
+##### Entity Information
+
+ℹ️ Displays entity information on hit with the Information Stick. Useful for debugging and developing.
+
+utility │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/entity-information) │ [Source](https://github.com/Serilum/Entity-Information)
+
+---
+
 <img src="https://cdn.modrinth.com/data/P7dR8mSH/icon.png" align="left" height="160" width="160" />
 
 ##### Fabric API
@@ -356,6 +434,18 @@ Lightweight and modular API providing common hooks and intercompatibility measur
 library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/fabric-api) │ [Source](https://github.com/FabricMC/fabric)
+
+---
+
+<img src="https://cdn.modrinth.com/data/WhbRG4iK/58f5b66cb54787d9c25228d667f61144371c3867_96.webp" align="left" height="160" width="160" />
+
+##### Falling Leaves
+
+Adds a neat little particle effect to leaf blocks
+
+decoration │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/fallingleaves) │ [Source](https://github.com/Fourmisain/fallingleaves)
 
 ---
 
@@ -392,6 +482,18 @@ This is a simple mod which fixes some annoying bugs related to keyboard on Linux
 – │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/fix-keyboard-on-linux) │ [Source](https://github.com/ishland/fix-keyboard-on-linux)
+
+---
+
+<img src="https://cdn.modrinth.com/data/ohNO6lps/cb3b942cc18a66a0f35f802e004713f134e46cc2_96.webp" align="left" height="160" width="160" />
+
+##### Forge Config API Port
+
+NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/forge-config-api-port) │ [Source](https://github.com/Fuzss/forgeconfigapiport)
 
 ---
 
@@ -527,6 +629,18 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/8qkXwOnk/icon.png" align="left" height="160" width="160" />
+
+##### More Chat History
+
+Increases the maximum length of chat history.
+
+social, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/morechathistory) │ [Source](https://github.com/JackFred2/MoreChatHistory)
+
+---
+
 <img src="https://cdn.modrinth.com/data/51shyZVL/c51b07193b56e952269ef50101d12aecba2b4747_96.webp" align="left" height="160" width="160" />
 
 ##### More Culling
@@ -647,6 +761,18 @@ utility │ 🖥️: 🟡 │ 🗄️: ✔️
 
 ---
 
+<img src="https://cdn.modrinth.com/data/Bh37bMuy/icon.png" align="left" height="160" width="160" />
+
+##### Reese's Sodium Options
+
+Alternative Options Menu for Sodium
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/reeses-sodium-options) │ [Source](https://github.com/FlashyReese/reeses-sodium-options)
+
+---
+
 <img src="https://cdn.modrinth.com/data/kwS02byl/4ca19b43027b2ac0e1c9580e52aa9cf7fd674e28.png" align="left" height="160" width="160" />
 
 ##### Riding Mouse Fix
@@ -656,6 +782,18 @@ Fixes the sluggishness of the mouse when riding on entities.
 optimization │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/ridingmousefix) │ [Source](https://github.com/JustAlittleWolf/RidingMouseFix)
+
+---
+
+<img src="https://cdn.modrinth.com/data/ZP7xHXtw/7a416b09817a79adfa6a3ef9368990135e276821_96.webp" align="left" height="160" width="160" />
+
+##### Remove Reloading Screen
+
+Makes resource packs load in the background, allowing you to do other things while waiting!
+
+optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/rrls) │ [Source](https://github.com/dima-dencep/rrls)
 
 ---
 
@@ -837,6 +975,42 @@ Shows how many times you can use a trade before restock.
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/trade-uses) │ [Source](https://github.com/Khajiitos/TradeUses)
+
+---
+
+<img src="https://cdn.modrinth.com/data/GBeCx05I/1877e2ad70c2b4ef34ce77cd03eabb6531f476f8_96.webp" align="left" height="160" width="160" />
+
+##### TweakerMore
+
+A collection of client-side tweak kits to enhance your Minecraft game experience. Tweak Minecraft and beyond!
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/tweakermore) │ [Source](https://github.com/Fallen-Breath/tweakermore)
+
+---
+
+<img src="https://cdn.modrinth.com/data/t5wuYk45/35af76cfb1d3074c5e8575d5f7385bb6c083c9d6.png" align="left" height="160" width="160" />
+
+##### Tweakeroo
+
+Various client-side tweaks, such as hand restock, hotbar swap/cycle, flexible/fast block placement etc.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/tweakeroo) │ [Source](https://github.com/maruohon/tweakeroo/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/aI9dPE6g/2fa86a6c22cda6d86dcbb204d211261f382c0c3b.png" align="left" height="160" width="160" />
+
+##### Useful Saved Hotbars
+
+quickly load/save saved-hotbars
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/useful-saved-hotbars) │ [Source](https://github.com/ToBinio/useful-saved-hotbars)
 
 ---
 
