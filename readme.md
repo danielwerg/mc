@@ -71,6 +71,7 @@
 - [Vanilla Tweaks](https://vanillatweaks.net/share#jF58rH)
 - [Eating Animation](https://modrinth.com/resourcepack/eating-animation-resourcepack)
 - [Val's Leaf Litter](https://modrinth.com/resourcepack/vals-leaf-litter)
+- [Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)
 
 #### Mods
 
