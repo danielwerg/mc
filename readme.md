@@ -84,15 +84,28 @@
 | unsupported | ❌    |
 | unknown     | ❓    |
 
-Total count: **<!-- MODS_COUNT_1.21.9:START -->78<!-- MODS_COUNT_1.21.9:END -->**
+Total count: **<!-- MODS_COUNT_1.21.9:START -->83<!-- MODS_COUNT_1.21.9:END -->**
 
 Waiting for 1.21.9 support:
 
-- [Spyglass Improvments](https://modrinth.com/mod/spyglass-improvements/versions)
-- [AmbientSounds](https://modrinth.com/mod/ambientsounds/versions)
+- [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements/versions)
+- [Spyglass Astronomy Sync](https://modrinth.com/mod/spyglass-astronomy-sync)
 - [Particle Rain](https://modrinth.com/mod/particle-rain/versions)
+- [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui)
 
 <!-- MODS_1.21.9:START -->
+<img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
+
+##### AmbientSounds
+
+#listentonature
+
+decoration │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/ambientsounds) │ [Source](https://github.com/CreativeMD/AmbientSounds)
+
+---
+
 <img src="https://cdn.modrinth.com/data/sSulVw0M/841a509ae695a051a13f7c97907f9132ee14bd22.png" align="left" height="160" width="160" />
 
 ##### Anvil Uses
@@ -321,6 +334,18 @@ utility │ 🖥️: ❌ │ 🗄️: ✔️
 
 ---
 
+<img src="https://cdn.modrinth.com/data/OsZiaDHq/4953ecd3c0c8b185b2a56d64cdb104b03f3e5038_96.webp" align="left" height="160" width="160" />
+
+##### CreativeCore
+
+A core mod
+
+library │ 🖥️: ✔️ │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/creativecore) │ [Source](https://github.com/CreativeMD/CreativeCore)
+
+---
+
 <img src="https://cdn.modrinth.com/data/c85whkNB/419e8bc32e8ab5b7b63a7388c1319106365f99e1_96.webp" align="left" height="160" width="160" />
 
 ##### Cycle Paintings
@@ -489,6 +514,18 @@ This is a simple mod which fixes some annoying bugs related to keyboard on Linux
 
 ---
 
+<img src="https://cdn.modrinth.com/data/LWbtK2M4/bbb5cfce1117fb71dc6db1a242027205f2333247_96.webp" align="left" height="160" width="160" />
+
+##### Force Port
+
+A mod that forces the port to always be the same when using the "Open To LAN" feature!
+
+management, technology, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/forceport) │ [Source](https://github.com/GalvinCraft/forceport-fabric)
+
+---
+
 <img src="https://cdn.modrinth.com/data/ohNO6lps/cb3b942cc18a66a0f35f802e004713f134e46cc2_96.webp" align="left" height="160" width="160" />
 
 ##### Forge Config API Port
@@ -558,18 +595,6 @@ No-compromises game logic optimization mod. Well suited for clients and servers 
 optimization │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/lithium) │ [Source](https://github.com/caffeinemc/lithium-fabric)
-
----
-
-<img src="https://cdn.modrinth.com/data/hgj0GFLy/8b5578755ed344d13829bd10a5af73f433076200_96.webp" align="left" height="160" width="160" />
-
-##### LookAtPlayer
-
-Looking at a nearby player while AFK
-
-social, utility │ 🖥️: ✔️ │ 🗄️: ❌
-
-[Modrinth](https://modrinth.com/mod/lookatplayer) │ [Source](https://github.com/Teashoe/LookAtPlayer)
 
 ---
 
@@ -654,6 +679,18 @@ A mod that changes how multiple types of culling are handled in order to improve
 library, optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/moreculling) │ [Source](https://github.com/fxmorin/moreculling)
+
+---
+
+<img src="https://cdn.modrinth.com/data/aC3cM3Vq/6c0eaa4e60a9c87f4766f222ff63286f09da32c0_96.webp" align="left" height="160" width="160" />
+
+##### Mouse Tweaks
+
+Enhances inventory management by adding various functions to the mouse buttons. 
+
+storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/mouse-tweaks) │ [Source](https://github.com/YaLTeR/MouseTweaks)
 
 ---
 
@@ -861,6 +898,18 @@ social, utility │ 🖥️: ❓ │ 🗄️: ❓
 
 ---
 
+<img src="https://cdn.modrinth.com/data/rpmGvDKs/85e5147b644eca5296070ddc18a3a74261b11df1_96.webp" align="left" height="160" width="160" />
+
+##### Silence Mobs
+
+🙊 Silence or mute mobs and villager with The Silence Stick.
+
+management, mobs, utility │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/silence-mobs) │ [Source](https://github.com/Serilum/Silence-Mobs)
+
+---
+
 <img src="https://cdn.modrinth.com/data/EIa1eiMm/7ea3bc26470ba1f45b1c980d5058b033a752396b_96.webp" align="left" height="160" width="160" />
 
 ##### Sodium Shadowy Path Blocks
@@ -1015,6 +1064,20 @@ quickly load/save saved-hotbars
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/useful-saved-hotbars) │ [Source](https://github.com/ToBinio/useful-saved-hotbars)
+
+---
+
+<img src="https://cdn.modrinth.com/data/1u6JkXh5/30698991048ced77e60c4e8284007d3782f2e6a3_96.webp" align="left" height="160" width="160" />
+
+##### WorldEdit
+
+A Minecraft Map Editor... that runs in-game!
+With selections, schematics, copy and paste, brushes, and scripting.
+Use it in creative, or use it temporarily in survival.
+
+library, management, utility │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/worldedit) │ [Source](https://github.com/EngineHub/WorldEdit/)
 
 ---
 
