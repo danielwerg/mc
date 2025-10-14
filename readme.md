@@ -84,7 +84,7 @@
 | unsupported | ❌    |
 | unknown     | ❓    |
 
-Total count: **<!-- MODS_COUNT_1.21.9:START -->83<!-- MODS_COUNT_1.21.9:END -->**
+Total count: **<!-- MODS_COUNT_1.21.9:START -->89<!-- MODS_COUNT_1.21.9:END -->**
 
 Waiting for 1.21.9 support:
 
@@ -466,6 +466,18 @@ library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/Ha28R6CL/72c3d74aeb665e45aea93a945a01474cbce3b7da_96.webp" align="left" height="160" width="160" />
+
+##### Fabric Language Kotlin
+
+This is a mod that enables usage of the Kotlin programming language for Fabric mods.
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/fabric-language-kotlin) │ [Source](https://github.com/FabricMC/fabric-language-kotlin/)
+
+---
+
 <img src="https://cdn.modrinth.com/data/WhbRG4iK/58f5b66cb54787d9c25228d667f61144371c3867_96.webp" align="left" height="160" width="160" />
 
 ##### Falling Leaves
@@ -550,6 +562,18 @@ optimization │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/O7RBXm3n/04cdecd37b4c7409f70d36fcdc85722ebf14aab8_96.webp" align="left" height="160" width="160" />
+
+##### Inventory Profiles Next
+
+Take control over your inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.
+
+storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/inventory-profiles-next) │ [Source](https://github.com/blackd/Inventory-Profiles)
+
+---
+
 <img src="https://cdn.modrinth.com/data/YL57xq9U/18d0e7f076d3d6ed5bedd472b853909aac5da202_96.webp" align="left" height="160" width="160" />
 
 ##### Iris Shaders
@@ -562,6 +586,18 @@ decoration, optimization │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/JygyCSA4/07db2203f74b2adc775822c2edf577b343df04f8_96.webp" align="left" height="160" width="160" />
+
+##### Item Scroller
+
+A client mod that adds many shortcuts to move items easier and craft faster in inventory screens
+
+management, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/item-scroller) │ [Source](https://github.com/maruohon/itemscroller/)
+
+---
+
 <img src="https://cdn.modrinth.com/data/yBW8D80W/d4f5c3ff8df7caf024178b04eca6d69f95979cfe_96.webp" align="left" height="160" width="160" />
 
 ##### LambDynamicLights - Dynamic Lights
@@ -571,6 +607,18 @@ Adds dynamic lights to Minecraft as the most feature-complete and optimized dyna
 adventure, decoration, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/lambdynamiclights) │ [Source](https://github.com/LambdAurora/LambDynamicLights)
+
+---
+
+<img src="https://cdn.modrinth.com/data/onSQdWhM/feb2d62d9f150539bfd2a69d373866b1e643545c_96.webp" align="left" height="160" width="160" />
+
+##### libIPN
+
+Inventory Profiles Next GUI/Config library
+
+library │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/libipn) │ [Source](https://github.com/blackd/libIPN)
 
 ---
 
@@ -706,15 +754,15 @@ utility │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
-<img src="https://cdn.modrinth.com/data/JHgf35QL/003007cfbe48cb6ab67746e103dc6b07a6d4b96e_96.webp" align="left" height="160" width="160" />
+<img src="https://cdn.modrinth.com/data/LoXPgYhm/ea903366c90c864a2ad108472c28c5043ed0a982.png" align="left" height="160" width="160" />
 
-##### Nemo's Inventory Sorting
+##### No Prying Eyes
 
-Automatically sort your inventory with just a button!
+Provides full control over your data; namely telemetry and chat reporting.
 
-storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
+management, social, utility │ 🖥️: 🟡 │ 🗄️: 🟡
 
-[Modrinth](https://modrinth.com/mod/nemos-inventory-sorting) │ [Source](https://github.com/NemoNotFound/NemosInventorySorting)
+[Modrinth](https://modrinth.com/mod/no-prying-eyes) │ [Source](https://github.com/Daxanius/NoPryingEyes)
 
 ---
 
@@ -862,6 +910,18 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/Jze3nAdh/60527e7dca8abcc5c8640531f4d2ed90070f4014.png" align="left" height="160" width="160" />
+
+##### Serverlist Fix
+
+Simple mod that removes the thread limit for server pinging.
+
+optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/serverlist-fix) │ [Source](null)
+
+---
+
 <img src="https://cdn.modrinth.com/data/iqK5uv72/c060f8af5120833b3758f953f3663d3efaa3ae06.png" align="left" height="160" width="160" />
 
 ##### Server Pinger Fixer
@@ -943,6 +1003,18 @@ A Minecraft mod that provides realistic sound attenuation, reverberation, and ab
 adventure, utility │ 🖥️: ✔️ │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/sound-physics-remastered) │ [Source](https://github.com/henkelmax/sound-physics-remastered)
+
+---
+
+<img src="https://cdn.modrinth.com/data/idODwPra/d1a5e1da75154b191cc92c42151e9f4b26a66b04_96.webp" align="left" height="160" width="160" />
+
+##### Spyglass Astronomy Sync
+
+Multiplayer support for Spyglass Astronomy
+
+decoration │ 🖥️: ✔️ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/spyglass-astronomy-sync) │ [Source](https://github.com/fliplus/spyglass-astronomy-sync)
 
 ---
 
