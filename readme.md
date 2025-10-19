@@ -84,7 +84,7 @@
 | unsupported | ❌    |
 | unknown     | ❓    |
 
-Total count: **<!-- MODS_COUNT_1.21.9:START -->89<!-- MODS_COUNT_1.21.9:END -->**
+Total count: **<!-- MODS_COUNT_1.21.9:START -->92<!-- MODS_COUNT_1.21.9:END -->**
 
 Waiting for 1.21.9 support:
 
@@ -454,6 +454,18 @@ utility │ 🖥️: ❌ │ 🗄️: ✔️
 
 ---
 
+<img src="https://cdn.modrinth.com/data/5IIKsxiL/16e3fd2ee3296e4fc9503df05b73b42011f5505c_96.webp" align="left" height="160" width="160" />
+
+##### Extreme sound muffler
+
+Extreme sound muffler is a client side mod that allows you to muffle sounds selectively.
+
+utility │ 🖥️: ✔️ │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/extreme_sound_muffler) │ [Source](https://github.com/LeoBeliik/ExtremeSoundMuffler)
+
+---
+
 <img src="https://cdn.modrinth.com/data/P7dR8mSH/icon.png" align="left" height="160" width="160" />
 
 ##### Fabric API
@@ -646,6 +658,18 @@ optimization │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/gPCdW0Wr/4616c50230e3e716f02127a0e74f250470a07e85.png" align="left" height="160" width="160" />
+
+##### Make Bubbles Pop
+
+Client-side mod that makes bubble particles pop and lets them rise realistically to the water surface.
+
+adventure, decoration │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/make_bubbles_pop) │ [Source](https://github.com/Tschipcraft/fabric_make_bubbles_pop_mod)
+
+---
+
 <img src="https://cdn.modrinth.com/data/GcWjdA9I/a530ae55df5e0c405f5cf1b3e4fd6163a398bdc3.png" align="left" height="160" width="160" />
 
 ##### MaLiLib
@@ -751,6 +775,18 @@ Adds copy button for the "/data get" command output
 utility │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/nbt-copy) │ [Source](https://github.com/mt1006/mc-nbtcopy-mod)
+
+---
+
+<img src="https://cdn.modrinth.com/data/qQyHxfxd/icon.png" align="left" height="160" width="160" />
+
+##### No Chat Reports
+
+Makes chat unreportable (where possible)
+
+social, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/no-chat-reports) │ [Source](https://github.com/Aizistral-Studios/No-Chat-Reports)
 
 ---
 
