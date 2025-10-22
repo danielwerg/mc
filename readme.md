@@ -72,6 +72,24 @@
 - [Eating Animation](https://modrinth.com/resourcepack/eating-animation-resourcepack)
 - [Val's Leaf Litter](https://modrinth.com/resourcepack/vals-leaf-litter)
 - [Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)
+- [3D crops Revamped](https://modrinth.com/resourcepack/3d-crops) (put below Vanilla Tweaks' Different Stems)
+- [Crops Re-Crafted](https://modrinth.com/resourcepack/crops-re-crafted)
+- [Mickey Joe's Flowers!](https://modrinth.com/resourcepack/mickey-joes-flowers)
+- [Mickey Joe's Note Blocks](https://modrinth.com/resourcepack/mickey-joes-flowers)
+- [Fancy Cactus](https://modrinth.com/resourcepack/fancy-cactus)
+- [Blooming Cacti Pots](https://modrinth.com/resourcepack/blooming-cacti-pots)
+- [Sounds & Music](https://modrinth.com/resourcepack/sounds-music)
+
+<details>
+<summary>Honorable mentions</summary>
+
+- [Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots)
+- [Bouquet Flower Pots](https://modrinth.com/resourcepack/bouquet-flower-pots)
+- [Better Dandelions](https://modrinth.com/resourcepack/better-dandelions/gallery)
+- [Actually 3D Flowers & Plants](https://modrinth.com/resourcepack/actually-3d-plants)
+- [Hippo's Pastel Palette](https://modrinth.com/collection/G4OX1DLZ)
+
+</details>
 
 #### Mods
 
