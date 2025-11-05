@@ -105,7 +105,6 @@
 <details>
 <summary>Server</summary>
 
-- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
 <!-- MODS_SERVER_1.21.10:START -->
 - [Better Enchantment Order](https://modrinth.com/mod/xQAP6sbq)
 - [Blooming Biosphere](https://modrinth.com/mod/Ds9FyUc7)
@@ -120,6 +119,7 @@
 - [Clumps](https://modrinth.com/mod/Wnxd13zP)
 - [Collective](https://modrinth.com/mod/e0M1UDsY)
 - [Colorize](https://modrinth.com/mod/4sQDl6he)
+- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/VSNURh3q)
 - [Copper Wrench](https://modrinth.com/mod/W3BKUO5F)
 - [Crop & Kettle](https://modrinth.com/mod/hd2YH2vf)
 - [Cycle Paintings](https://modrinth.com/mod/c85whkNB)

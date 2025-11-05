@@ -11,6 +11,7 @@ MR 9s6osm5g  Cloth Config API
 MR Wnxd13zP  Clumps
 MR e0M1UDsY  Collective
 MR 4sQDl6he  Colorize
+MR VSNURh3q  Concurrent Chunk Management Engine (Fabric)
 MR W3BKUO5F  Copper Wrench
 MR hd2YH2vf  Crop & Kettle
 MR c85whkNB  Cycle Paintings
