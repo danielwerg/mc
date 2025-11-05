@@ -134,7 +134,6 @@
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs)
 - [Fortune](https://modrinth.com/mod/Und6ZcdR)
 - [Geophilic](https://modrinth.com/mod/hl5OLM95)
-- [Haul](https://modrinth.com/mod/EdR8bCZO)
 - [Hero's Journey](https://modrinth.com/mod/P1eWgBlz)
 - [Jake's Build Tools](https://modrinth.com/mod/DosZdmJF)
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ)
