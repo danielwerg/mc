@@ -1,0 +1,32 @@
+#!/bin/bash
+
+get_version() {
+  find . -type f -name "$*-*.jar" | grep -v "\-tweaked" | head -1 \
+    | xargs -I {} basename {} | grep -oP "([0-9]+\.[0-9]+\.[0-9]+)"
+}
+pack() {
+  dir=$1
+  to_file=$2
+  (cd "$dir" || exit; zip  -q -r ../"$to_file" ./*; cd ~- || exit)
+}
+
+cd mods || exit
+
+echo "Jake's Build tools | remove unwanted tools"
+jbt_temp="jakes-build-tools-temp"
+jbt_version=$(get_version "jakes-build-tools")
+if [ ! -z "$jbt_version" ]; then
+  mkdir "$jbt_temp"
+  jbt_file="jakes-build-tools-${jbt_version}.jar"
+  unzip -q "$jbt_file" -d "$jbt_temp"
+  rm -r "${jbt_temp}/data/jbt.experience_flask"
+  rm -r "${jbt_temp}/data/jbt.grass_starter"
+  rm -r "${jbt_temp}/data/jbt.mob_bag"
+  rm -r "${jbt_temp}/data/jbt.void_bucket"
+  rm -r "${jbt_temp}/data/jbt.void_bundle"
+  pack "$jbt_temp" "jakes-build-tools-${jbt_version}-tweaked.jar"
+  rm -r "$jbt_temp"
+  mv "$jbt_file" "${jbt_file}.disabled"
+fi
+
+cd ~- || exit

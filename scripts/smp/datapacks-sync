@@ -1,0 +1,6 @@
+#!/bin/bash
+
+[ -d ./datapacks ] || exit
+[ -d ./world/datapacks ] && rm -r ./world/datapacks
+mkdir -p ./world
+cp -r ./datapacks ./world/datapacks

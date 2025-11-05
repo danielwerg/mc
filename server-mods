@@ -1,0 +1,17 @@
+#!/bin/bash
+
+key_prefix="MODS_SERVER"
+sub_key=$1
+if [ -z "$sub_key" ]; then
+  sub_keys_list=$(cat ./readme.md | rg "<\!-- ${key_prefix}_(.*):START" -or '$1')
+  sub_key=$(echo "$sub_keys_list" | fzf --reverse --cycle --prompt "sub_key: ")
+  [ -z "$sub_key" ] && exit 
+fi
+
+mods=$(while IFS= read -r mod; do
+  id=$(echo "$mod" | awk '{print $2}')
+  name=$(echo "$mod" | tuc -d "  " -f 2)
+  echo "- [$name](https://modrinth.com/mod/${id})"
+done <<< "$(cat ./"${sub_key}"/ferium_list.txt)")
+
+python ./insert-between.py -f ./readme.md -n "${key_prefix}_${sub_key}" -c "$mods" --newline

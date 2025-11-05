@@ -61,7 +61,7 @@
 >
 > Mods from [masa](https://modrinth.com/user/masa) (MiniHUD, Tweakeroo, Litematica and MaLiLib) not always updated to the newest Minecraft version, see forks from https://github.com/sakura-ryoko
 
-### 1.21.9
+### 1.21.10
 
 <details>
 <summary>Expand</summary>
@@ -102,16 +102,76 @@
 | unsupported | ❌    |
 | unknown     | ❓    |
 
-Total count: **<!-- MODS_COUNT_1.21.9:START -->92<!-- MODS_COUNT_1.21.9:END -->**
+<details>
+<summary>Server</summary>
 
-Waiting for 1.21.9 support:
+- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
+<!-- MODS_SERVER_1.21.10:START -->
+- [Better Enchantment Order](https://modrinth.com/mod/xQAP6sbq)
+- [Blooming Biosphere](https://modrinth.com/mod/Ds9FyUc7)
+- [Bound!](https://modrinth.com/mod/5u5wg6uM)
+- [Bundle as Quiver](https://modrinth.com/mod/IN9qauZM)
+- [Call Your Cat](https://modrinth.com/mod/c4iuUbf6)
+- [Call Your Dog](https://modrinth.com/mod/hKvEWvVF)
+- [Call Your Happy Ghast](https://modrinth.com/mod/UsjYt3wc)
+- [Call Your Horse](https://modrinth.com/mod/QuDyXDNw)
+- [Call Your Parrot](https://modrinth.com/mod/gkuQygoB)
+- [Cloth Config API](https://modrinth.com/mod/9s6osm5g)
+- [Clumps](https://modrinth.com/mod/Wnxd13zP)
+- [Collective](https://modrinth.com/mod/e0M1UDsY)
+- [Colorize](https://modrinth.com/mod/4sQDl6he)
+- [Copper Wrench](https://modrinth.com/mod/W3BKUO5F)
+- [Crop & Kettle](https://modrinth.com/mod/hd2YH2vf)
+- [Cycle Paintings](https://modrinth.com/mod/c85whkNB)
+- [Death Count](https://modrinth.com/mod/JaEZg1D1)
+- [Dimension tracker + Afk display](https://modrinth.com/mod/Ge9h6CiG)
+- [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww)
+- [Dungeons and Taverns Stronghold Overhaul LITE edition](https://modrinth.com/mod/LbGT0kSV)
+- [Eclipse's Tweakeroo Additions](https://modrinth.com/mod/6kKLK5i1)
+- [Entity Information](https://modrinth.com/mod/8SrsIkt3)
+- [Fabric API](https://modrinth.com/mod/P7dR8mSH)
+- [Fast Backups](https://modrinth.com/mod/ZHKrK8Rp)
+- [FerriteCore](https://modrinth.com/mod/uXXizFIs)
+- [Fortune](https://modrinth.com/mod/Und6ZcdR)
+- [Geophilic](https://modrinth.com/mod/hl5OLM95)
+- [Haul](https://modrinth.com/mod/EdR8bCZO)
+- [Hero's Journey](https://modrinth.com/mod/P1eWgBlz)
+- [Jake's Build Tools](https://modrinth.com/mod/DosZdmJF)
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ)
+- [Lingering Arrows](https://modrinth.com/mod/5R7pBCer)
+- [Lithium](https://modrinth.com/mod/gvQqBUqZ)
+- [MaLiLib](https://modrinth.com/mod/GcWjdA9I)
+- [MC-258859](https://modrinth.com/mod/gzfqBTYf)
+- [NBT Copy](https://modrinth.com/mod/XIIGRXeq)
+- [No Chat Reports](https://modrinth.com/mod/qQyHxfxd)
+- [Phantom Membrane](https://modrinth.com/mod/IMX3sJBx)
+- [Ping Wheel](https://modrinth.com/mod/QQXAdCzh)
+- [Playtime Command](https://modrinth.com/mod/okeAxC3Y)
+- [PolyDecorations](https://modrinth.com/mod/5710VC7f)
+- [Polymer](https://modrinth.com/mod/xGdtZczs)
+- [Rail Placement Fix](https://modrinth.com/mod/7z0IZqoa)
+- [Reply](https://modrinth.com/mod/3KVzXQqL)
+- [Scaffolding Drops Nearby](https://modrinth.com/mod/uO522mgw)
+- [ScalableLux](https://modrinth.com/mod/Ps1zyz6x)
+- [Servux](https://modrinth.com/mod/zQhsx8KF)
+- [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq)
+- [Silence Mobs](https://modrinth.com/mod/rpmGvDKs)
+- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
+- [Storage Pots](https://modrinth.com/mod/7z6B7o9b)
+- [Suggestion Tweaker](https://modrinth.com/mod/MBLj38R0)
+- [Swift Ghasts](https://modrinth.com/mod/RTBZXjdc)
+- [Syncmatica](https://modrinth.com/mod/bfneejKo)
+- [True Ending - Ender Dragon Overhaul](https://modrinth.com/mod/MCnBYP0b)
+- [Useful Mobs](https://modrinth.com/mod/elYq283b)
+- [Vanilla Refresh](https://modrinth.com/mod/gWO6Zqey)
+- [WorldEdit](https://modrinth.com/mod/1u6JkXh5)
+<!-- MODS_SERVER_1.21.10:END -->
 
-- [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements/versions)
-- [Spyglass Astronomy Sync](https://modrinth.com/mod/spyglass-astronomy-sync)
-- [Particle Rain](https://modrinth.com/mod/particle-rain/versions)
-- [WorldEdit CUI](https://modrinth.com/mod/worldedit-cui)
+</details>
 
-<!-- MODS_1.21.9:START -->
+Total count: **<!-- MODS_COUNT_1.21.10:START -->117<!-- MODS_COUNT_1.21.10:END -->**
+
+<!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
 
 ##### AmbientSounds
@@ -133,6 +193,18 @@ Shows how many times an anvil has been used on an item.
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/anvil-uses) │ [Source](https://github.com/Z1proW/Anvil-Uses)
+
+---
+
+<img src="https://cdn.modrinth.com/data/Ef9ZREBZ/878320e877db84442cf4f9a1b8123944b256ce92.png" align="left" height="160" width="160" />
+
+##### Armor Stand Editor
+
+Pose and modify your armor stand with ease!
+
+decoration, utility │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/armorstandeditor) │ [Source](https://github.com/Patbox/ArmorStandEditor)
 
 ---
 
@@ -208,6 +280,18 @@ management, storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/5u5wg6uM/fd4e5f192c47e8e2b6632dd7da9aac9984d96388_96.webp" align="left" height="160" width="160" />
+
+##### Bound!
+
+A simple datapack that adds a new enchantment that lets you double jump!
+
+adventure, equipment, transportation │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/bound!) │ [Source](https://github.com/maybejake/bound)
+
+---
+
 <img src="https://cdn.modrinth.com/data/IN9qauZM/19ce58d1070c0d10cf8d21f3c3f6a1fe68faea2c_96.webp" align="left" height="160" width="160" />
 
 ##### Bundle as Quiver
@@ -229,6 +313,66 @@ A Fabric mod designed to improve the chunk performance of Minecraft.
 optimization │ 🖥️: 🟡 │ 🗄️: ✔️
 
 [Modrinth](https://modrinth.com/mod/c2me-fabric) │ [Source](https://github.com/RelativityMC/C2ME-fabric)
+
+---
+
+<img src="https://cdn.modrinth.com/data/c4iuUbf6/f558d7355726e1f2f06250303b6c928404e17f47_96.webp" align="left" height="160" width="160" />
+
+##### Call Your Cat
+
+Easily call/whistle your cat to you with a goat horn!
+
+adventure, equipment, mobs │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/call-your-cat) │ [Source](https://github.com/jodeks-datapacks/Call-Your-Cat)
+
+---
+
+<img src="https://cdn.modrinth.com/data/hKvEWvVF/e540b008f729801a042004466b0ea8e215cc3ccb_96.webp" align="left" height="160" width="160" />
+
+##### Call Your Dog
+
+Easily call (whistle) your dog with a goat horn to teleport it to you
+
+adventure, mobs, utility │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/call-your-dog) │ [Source](https://github.com/jodeks-datapacks/Call-Your-Dog)
+
+---
+
+<img src="https://cdn.modrinth.com/data/UsjYt3wc/ad825df6a885fd76f9322698beb67a62226a8033.gif" align="left" height="160" width="160" />
+
+##### Call Your Happy Ghast
+
+Easily call (whistle) your happy ghast with a goat horn to teleport it to you
+
+adventure, mobs, social │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/call-your-happy-ghast) │ [Source](https://github.com/jodeks-datapacks/Call-Your-Happy-Ghast)
+
+---
+
+<img src="https://cdn.modrinth.com/data/QuDyXDNw/872bf3b77f4be2b0e30d2d988421999d55ae2848_96.webp" align="left" height="160" width="160" />
+
+##### Call Your Horse
+
+Easily call (whistle) your horse with a goat horn to teleport it to you
+
+adventure, mobs, utility │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/call-your-horse) │ [Source](https://github.com/jodeks-datapacks/Call-Your-Horse)
+
+---
+
+<img src="https://cdn.modrinth.com/data/gkuQygoB/e6ce6558968d57d89d3bffd18eb9fc9a122870b5_96.webp" align="left" height="160" width="160" />
+
+##### Call Your Parrot
+
+Easily call/whistle your parrot with a goat horn!
+
+adventure, equipment, mobs │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/call-your-parrot) │ [Source](https://github.com/jodeks-datapacks/Call-Your-Parrot)
 
 ---
 
@@ -340,6 +484,18 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/iDyqnQLT/a252e26685c30f1ae82a47b087b01fa6b968a6f1_96.webp" align="left" height="160" width="160" />
+
+##### Cool Rain
+
+Creates ambient sounds for certain blocks during rain
+
+decoration, game-mechanics │ 🖥️: ✔️ │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/coolrain) │ [Source](null)
+
+---
+
 <img src="https://cdn.modrinth.com/data/7T4TeOKj/cdc11ed4967af60dd8558997350936cdd06bdf61_96.webp" align="left" height="160" width="160" />
 
 ##### Creative One-Punch
@@ -373,18 +529,6 @@ library │ 🖥️: ✔️ │ 🗄️: 🟡
 – │ 🖥️: ❌ │ 🗄️: ✔️
 
 [Modrinth](https://modrinth.com/mod/cycle-paintings) │ [Source](https://github.com/Serilum/Cycle-Paintings)
-
----
-
-<img src="https://cdn.modrinth.com/data/JzSeqW5I/230ea5ca139e7a5c8bdd52a0ee2d157bd666444e.png" align="left" height="160" width="160" />
-
-##### DontDisruptMyLocatorBar
-
-Prevents hiding of the locator bar on certain actions (breaking, placing blocks, etc...)
-
-adventure, utility │ 🖥️: ✔️ │ 🗄️: ❌
-
-[Modrinth](https://modrinth.com/mod/dontdisruptmylocatorbar) │ [Source](https://github.com/JustAlittleWolf/DontDisruptMyLocatorBar)
 
 ---
 
@@ -580,6 +724,30 @@ library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/EdR8bCZO/aec7b9898933cde3fc646977a8c813cab1b228ca_96.webp" align="left" height="160" width="160" />
+
+##### Haul
+
+A datapack thats lets you pickup and carry chests and barrels! Move your storage with ease!
+
+game-mechanics, storage, transportation │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/haul-data-pack) │ [Source](https://github.com/maybejake/haul)
+
+---
+
+<img src="https://cdn.modrinth.com/data/P1eWgBlz/56849657cc04eec364a8ba2ae300645ab2cc7dda_96.webp" align="left" height="160" width="160" />
+
+##### Hero's Journey
+
+A datapack inspired by End Remastered, gather eyes and go to The End!
+
+adventure, game-mechanics, magic │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/heros-journey) │ [Source](https://github.com/maybejake/Heros-Journey)
+
+---
+
 <img src="https://cdn.modrinth.com/data/5ZwdcRci/e57b6b451425692ac17ad322d5e14bea686a383a_96.webp" align="left" height="160" width="160" />
 
 ##### ImmediatelyFast
@@ -628,6 +796,18 @@ management, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/fQEb0iXm/3ea60899d060a9286e03b87bfa9e71d0cbe2dde7_96.webp" align="left" height="160" width="160" />
+
+##### Krypton
+
+A mod to optimize the Minecraft networking stack
+
+optimization, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/krypton) │ [Source](https://github.com/astei/krypton)
+
+---
+
 <img src="https://cdn.modrinth.com/data/yBW8D80W/d4f5c3ff8df7caf024178b04eca6d69f95979cfe_96.webp" align="left" height="160" width="160" />
 
 ##### LambDynamicLights - Dynamic Lights
@@ -652,6 +832,18 @@ library │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/5R7pBCer/983ce4fdf19f767a36e97bc55fcebd75ef460cab.png" align="left" height="160" width="160" />
+
+##### Lingering Arrows
+
+Tipped arrows create a area effect cloud wherever they land, giving them and their crafting recipe a purpose.
+
+game-mechanics │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/lingering-arrows) │ [Source](null)
+
+---
+
 <img src="https://cdn.modrinth.com/data/bEpr0Arc/25b5529d7a3b030ac136a6ce879d8ed2a1aa4a8d.png" align="left" height="160" width="160" />
 
 ##### Litematica
@@ -661,6 +853,18 @@ A client-side schematic mod with extra features for creative mode work
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/litematica) │ [Source](https://github.com/maruohon/litematica/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/T3G2Q24n/0e94530bf9e213b008b0abf938970726b32de1dd.png" align="left" height="160" width="160" />
+
+##### LitematicDownloader
+
+Direct schematics downloads for Litematica, fully integrated into your Minecraft client.
+
+library, management, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/litematicdownloader) │ [Source](https://github.com/Choculaterie/LitematicDownloader)
 
 ---
 
@@ -685,6 +889,18 @@ Client-side mod that makes bubble particles pop and lets them rise realistically
 adventure, decoration │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/make_bubbles_pop) │ [Source](https://github.com/Tschipcraft/fabric_make_bubbles_pop_mod)
+
+---
+
+<img src="https://cdn.modrinth.com/data/WegYUg7p/ea184fadc7fb05196362e3b24f2975df1520eef8_96.webp" align="left" height="160" width="160" />
+
+##### malibind
+
+Managing vanilla Minecraft keybinds with MaLiLib
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/malibind) │ [Source](https://github.com/nealchen2003/malibind)
 
 ---
 
@@ -832,6 +1048,18 @@ Disable the telemetry introduced in 21w38a
 
 ---
 
+<img src="https://cdn.modrinth.com/data/cygPPnN1/b02e0828555b0c7c0698f6148b23694d71ee8bab.png" align="left" height="160" width="160" />
+
+##### No Command Confirm
+
+A light client side mod to allow greater control over the behavior of the "Confirm Command Execution" dialog window. For use on maps and servers with lots of command books, signs, or dialogs
+
+utility │ 🖥️: ✔️ │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/nocc) │ [Source](https://github.com/BearMetalMC/nocc)
+
+---
+
 <img src="https://cdn.modrinth.com/data/eNF4Bfla/c7890dd5aba0201bd770f4bb9c3790cf924e297d.png" align="left" height="160" width="160" />
 
 ##### Now Playing
@@ -856,6 +1084,18 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/c7m1mi73/388af00d61fa57e7e10612bcc099bf6ee0794e5e.png" align="left" height="160" width="160" />
+
+##### Packet Fixer
+
+A simple mod to fix various problems with packets, nbt and timeouts.
+
+optimization, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/packet-fixer) │ [Source](https://github.com/TonimatasDEV/PacketSizeDoublerForge)
+
+---
+
 <img src="https://cdn.modrinth.com/data/PLAGcSFJ/a1c206381f51a0fb2bf5e5e38bb850392b31141b_96.webp" align="left" height="160" width="160" />
 
 ##### Particle Effects
@@ -865,6 +1105,30 @@ Visual Mod which adds unique textured particles for every effect in vanilla Mine
 decoration, game-mechanics, magic │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/particle-effects) │ [Source](https://github.com/LopyMine/Particle-Effects)
+
+---
+
+<img src="https://cdn.modrinth.com/data/xFCYuAs8/08a17c4d9f6da8140673174a627a151409287861_96.webp" align="left" height="160" width="160" />
+
+##### Particle Interactions
+
+Adds particles to more interactions in the game, such as placing blocks or stripping logs. Fully configurable and client side!
+
+game-mechanics │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/particle-interactions) │ [Source](https://github.com/Enchanted-Games/block-place-particles)
+
+---
+
+<img src="https://cdn.modrinth.com/data/nrikgvxm/e637304d1bec07c39e833d810aa4bdbb9703bf95_96.webp" align="left" height="160" width="160" />
+
+##### Particle Rain
+
+Replaces weather with prettier particle effects
+
+decoration │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/particle-rain) │ [Source](https://github.com/PigCart/particle-rain)
 
 ---
 
@@ -892,6 +1156,30 @@ library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/5710VC7f/8a93e2abc8fe53b56b8f109b931ee532670238ea_96.webp" align="left" height="160" width="160" />
+
+##### PolyDecorations
+
+Decorate your world! A server side furniture / decorations mod!
+
+decoration │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/polydecorations) │ [Source](https://github.com/Patbox/PolyDecorations)
+
+---
+
+<img src="https://cdn.modrinth.com/data/xGdtZczs/icon.png" align="left" height="160" width="160" />
+
+##### Polymer
+
+Library for creating better server side content!
+
+library │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/polymer) │ [Source](https://github.com/Patbox/polymer)
+
+---
+
 <img src="https://cdn.modrinth.com/data/7z0IZqoa/638aab9d568fb9f75ed1311e878a013532b3bde4_96.webp" align="left" height="160" width="160" />
 
 ##### Rail Placement Fix
@@ -916,6 +1204,18 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/ByQSyTuV/fbe6111e303db604ffb06fcbc048c52135dbe6c7_96.webp" align="left" height="160" width="160" />
+
+##### Remember Url Hashes
+
+A client-side mod for avoiding re-downloading server resource packs with no hash code present from the server. The mod remembers past hashes based on the URL.
+
+management, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/rememberurlhashes) │ [Source](https://github.com/DaylightDragon/RememberUrlHashes)
+
+---
+
 <img src="https://cdn.modrinth.com/data/kwS02byl/4ca19b43027b2ac0e1c9580e52aa9cf7fd674e28.png" align="left" height="160" width="160" />
 
 ##### Riding Mouse Fix
@@ -928,18 +1228,6 @@ optimization │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
-<img src="https://cdn.modrinth.com/data/ZP7xHXtw/7a416b09817a79adfa6a3ef9368990135e276821_96.webp" align="left" height="160" width="160" />
-
-##### Remove Reloading Screen
-
-Makes resource packs load in the background, allowing you to do other things while waiting!
-
-optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
-
-[Modrinth](https://modrinth.com/mod/rrls) │ [Source](https://github.com/dima-dencep/rrls)
-
----
-
 <img src="https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp" align="left" height="160" width="160" />
 
 ##### ScalableLux
@@ -949,6 +1237,18 @@ A Fabric mod based on Starlight that improves the performance of light updates i
 optimization │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/scalablelux) │ [Source](https://github.com/RelativityMC/ScalableLux)
+
+---
+
+<img src="https://cdn.modrinth.com/data/uQVTjOl4/36d8c4fb25cf3122ae4fd638968ed5981b7f9dc5_96.webp" align="left" height="160" width="160" />
+
+##### Schematic Placer
+
+An addon for WorldEdit that streamlines placing schematic files in Minecraft.
+
+management, utility │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/schematic-placer) │ [Source](https://github.com/facetorched/schemplacer)
 
 ---
 
@@ -1085,6 +1385,30 @@ decoration │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/o1YyKVqu/bdff8e6b94a83d544637308eadb8478af54ec380.png" align="left" height="160" width="160" />
+
+##### Spyglass Keybind
+
+Simple mod that adds keybind (Z by default) for Spyglass quick access
+
+equipment, game-mechanics, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/spyglass-keybind) │ [Source](https://github.com/danielwerg/spyglass-keybind)
+
+---
+
+<img src="https://cdn.modrinth.com/data/7z6B7o9b/862ec9f53994b7fdce19726316e72e98ca270c55_96.webp" align="left" height="160" width="160" />
+
+##### Storage Pots
+
+Mass storage using magical pots!
+
+adventure, storage, utility │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/storage-pots) │ [Source](https://github.com/maybejake/storage-pots)
+
+---
+
 <img src="https://cdn.modrinth.com/data/MBLj38R0/icon.png" align="left" height="160" width="160" />
 
 ##### Suggestion Tweaker
@@ -1118,6 +1442,18 @@ Config Lib makes dealing with config files just a bit easier.
 library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/supermartijn642s-config-lib) │ [Source](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib)
+
+---
+
+<img src="https://cdn.modrinth.com/data/RTBZXjdc/d2751566d97dcd9bfe41cfaba0f8642df15756d9_96.webp" align="left" height="160" width="160" />
+
+##### Swift Ghasts
+
+Upgrade ghast harnesses using smithing tables to make happy ghasts faster.
+
+adventure, transportation │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/swift-ghasts) │ [Source](null)
 
 ---
 
@@ -1157,6 +1493,18 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/MCnBYP0b/7c5a3e36e2509d4de48eabd29824d53ef4fb3158_96.webp" align="left" height="160" width="160" />
+
+##### True Ending - Ender Dragon Overhaul
+
+An Ender Dragon overhaul with progressing difficulty, new attacks, and elegant particle animation.
+
+magic, mobs │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/true-ending) │ [Source](null)
+
+---
+
 <img src="https://cdn.modrinth.com/data/GBeCx05I/1877e2ad70c2b4ef34ce77cd03eabb6531f476f8_96.webp" align="left" height="160" width="160" />
 
 ##### TweakerMore
@@ -1178,6 +1526,18 @@ Various client-side tweaks, such as hand restock, hotbar swap/cycle, flexible/fa
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/tweakeroo) │ [Source](https://github.com/maruohon/tweakeroo/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/elYq283b/ce9d0e57467f701ab1fcb2b6812288c01d3b7aa3_96.webp" align="left" height="160" width="160" />
+
+##### Useful Mobs
+
+Adds new features for bats, pigs, polar bears, and squids to give forgotten mobs a new purpose!
+
+adventure, game-mechanics, mobs │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/useful-mobs) │ [Source](https://github.com/thesorcell/Useful-Mobs)
 
 ---
 
@@ -1216,7 +1576,7 @@ A builder-based configuration library for Minecraft.
 library, management, utility │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/yacl) │ [Source](https://github.com/isXander/YetAnotherConfigLib)
-<!-- MODS_1.21.9:END -->
+<!-- MODS_1.21.10:END -->
 
 ---
 
