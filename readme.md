@@ -168,7 +168,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->117<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->118<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -1248,6 +1248,18 @@ An addon for WorldEdit that streamlines placing schematic files in Minecraft.
 management, utility │ 🖥️: ❌ │ 🗄️: ✔️
 
 [Modrinth](https://modrinth.com/mod/schematic-placer) │ [Source](https://github.com/facetorched/schemplacer)
+
+---
+
+<img src="https://cdn.modrinth.com/data/OC1Ud2T4/72dc4ed0ac7569539960dbdc7c60915c105f1c84.png" align="left" height="160" width="160" />
+
+##### SchematicPreview
+
+3D schematic previews & other utilities for litematica
+
+decoration, management, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/schematicpreview) │ [Source](https://github.com/DimasKama/SchematicPreview)
 
 ---
 
