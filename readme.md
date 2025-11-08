@@ -73,11 +73,23 @@
 - [Val's Leaf Litter](https://modrinth.com/resourcepack/vals-leaf-litter)
 - [Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)
 - [3D crops Revamped](https://modrinth.com/resourcepack/3d-crops) (put below Vanilla Tweaks' Different Stems)
+- [Pato's 3D Brews](https://modrinth.com/resourcepack/patos-3d-brews)
+- [Fresh Ores and Ingots](https://modrinth.com/resourcepack/fresh-ores-and-ingots)
+- [Fresh Food](https://modrinth.com/resourcepack/fresh-food)
+- [Fresh Music Discs](https://modrinth.com/resourcepack/fresh-music-discs)
+- [Fresh Paintings](https://modrinth.com/resourcepack/fresh-paintings)
+- [Even Better Enchanted Books – Unique Enchant](https://modrinth.com/resourcepack/even-better-enchanted-books)
 - [Crops Re-Crafted](https://modrinth.com/resourcepack/crops-re-crafted)
 - [Mickey Joe's Flowers!](https://modrinth.com/resourcepack/mickey-joes-flowers)
 - [Mickey Joe's Note Blocks](https://modrinth.com/resourcepack/mickey-joes-flowers)
 - [Fancy Cactus](https://modrinth.com/resourcepack/fancy-cactus)
 - [Blooming Cacti Pots](https://modrinth.com/resourcepack/blooming-cacti-pots)
+- [Half Hunger!](https://modrinth.com/resourcepack/half-hunger!)
+- [More Readable Settings](https://modrinth.com/resourcepack/more-readable-settings)
+- [Moon Clock](https://modrinth.com/resourcepack/moon-clock)
+- [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)
+- [Exact Block Models](https://modrinth.com/resourcepack/exact-block-models)
+- [Chromakey](modrinth.com/resourcepack/chromakey)
 - [Sounds & Music](https://modrinth.com/resourcepack/sounds-music)
 
 <details>
@@ -88,6 +100,8 @@
 - [Better Dandelions](https://modrinth.com/resourcepack/better-dandelions/gallery)
 - [Actually 3D Flowers & Plants](https://modrinth.com/resourcepack/actually-3d-plants)
 - [Hippo's Pastel Palette](https://modrinth.com/collection/G4OX1DLZ)
+- [Bray & Cyber's Better, Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books)
+- [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
 
 </details>
 
@@ -168,7 +182,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->118<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->124<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -831,6 +845,18 @@ library │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/WKwQAwke/icon.png" align="left" height="160" width="160" />
+
+##### LibJF
+
+A library for my mods
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/libjf) │ [Source](https://git.frohnmeyer-wds.de/JfMods/LibJF)
+
+---
+
 <img src="https://cdn.modrinth.com/data/5R7pBCer/983ce4fdf19f767a36e97bc55fcebd75ef460cab.png" align="left" height="160" width="160" />
 
 ##### Lingering Arrows
@@ -1059,6 +1085,18 @@ utility │ 🖥️: ✔️ │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/MPCX6s5C/b97fd5f7a893165052408b747286d6eb38d57abb_96.webp" align="left" height="160" width="160" />
+
+##### Not Enough Animations
+
+Bringing first-person animations to the third-person
+
+adventure, decoration │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/not-enough-animations) │ [Source](https://github.com/tr7zw/NotEnoughAnimations)
+
+---
+
 <img src="https://cdn.modrinth.com/data/eNF4Bfla/c7890dd5aba0201bd770f4bb9c3790cf924e297d.png" align="left" height="160" width="160" />
 
 ##### Now Playing
@@ -1191,6 +1229,18 @@ utility │ 🖥️: 🟡 │ 🗄️: ✔️
 
 ---
 
+<img src="https://cdn.modrinth.com/data/vgVfk0m2/229b86aa99be7ca47987c72d87338808171d1563.png" align="left" height="160" width="160" />
+
+##### Real Arrow Tip
+
+bows now display the correct arrow
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/real-arrow-tip) │ [Source](https://github.com/ToBinio/real-arrow-tip)
+
+---
+
 <img src="https://cdn.modrinth.com/data/Bh37bMuy/icon.png" align="left" height="160" width="160" />
 
 ##### Reese's Sodium Options
@@ -1212,6 +1262,18 @@ A client-side mod for avoiding re-downloading server resource packs with no hash
 management, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/rememberurlhashes) │ [Source](https://github.com/DaylightDragon/RememberUrlHashes)
+
+---
+
+<img src="https://cdn.modrinth.com/data/TiF5QWZY/16b68a9cf4a526e0b03e77310c98040ac2e6225c_96.webp" align="left" height="160" width="160" />
+
+##### Respackopts
+
+Config menus for resource packs
+
+utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/respackopts) │ [Source](https://git.frohnmeyer-wds.de/JfMods/Respackopts)
 
 ---
 
@@ -1408,6 +1470,18 @@ equipment, game-mechanics, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/757R1JEL/e75a95e03bc0cb7bab0c45e7d515debfeb29393e_96.webp" align="left" height="160" width="160" />
+
+##### StewDrinkSound
+
+Stews now make drinking sounds instead of eating sounds!
+
+food, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/stewdrinksound) │ [Source](https://github.com/FySjutton/StewDrinkSound)
+
+---
+
 <img src="https://cdn.modrinth.com/data/7z6B7o9b/862ec9f53994b7fdce19726316e72e98ca270c55_96.webp" align="left" height="160" width="160" />
 
 ##### Storage Pots
@@ -1489,6 +1563,18 @@ Adds a keybind to show an item's tags in its tooltip. Handy for tag-based sortin
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/tag-tooltips) │ [Source](https://github.com/J4gm/tagtooltips)
+
+---
+
+<img src="https://cdn.modrinth.com/data/hNoAJSm7/285fc69f9208b8fd73340730497bc3f92ae542bd_96.webp" align="left" height="160" width="160" />
+
+##### Technical Utilities
+
+Tech Utils is a mod providing client-side tweaks for Litematica, WorldEdit and other small utilities.
+
+management, storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/techutils) │ [Source](https://github.com/Kikugie/techutils)
 
 ---
 
