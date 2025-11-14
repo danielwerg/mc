@@ -74,6 +74,9 @@
 - [Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)
 - [3D crops Revamped](https://modrinth.com/resourcepack/3d-crops) (put below Vanilla Tweaks' Different Stems)
 - [Pato's 3D Brews](https://modrinth.com/resourcepack/patos-3d-brews)
+- [Undopia 3D Carved Pumpkins](https://modrinth.com/resourcepack/undopia-3d-carved-pumpkins)
+- [Undopia 3D Frogspawn](https://modrinth.com/resourcepack/undopia-3d-frogspawn)
+- [Undopia 3D Sculk Shrieker](https://modrinth.com/resourcepack/undopia-3d-sculk-shrieker)
 - [Fresh Ores and Ingots](https://modrinth.com/resourcepack/fresh-ores-and-ingots)
 - [Fresh Food](https://modrinth.com/resourcepack/fresh-food)
 - [Fresh Music Discs](https://modrinth.com/resourcepack/fresh-music-discs)
@@ -102,6 +105,7 @@
 - [Hippo's Pastel Palette](https://modrinth.com/collection/G4OX1DLZ)
 - [Bray & Cyber's Better, Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books)
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
+- [Remodeled Fence and Gates](https://modrinth.com/resourcepack/remodeled-fence-and-gates)
 
 </details>
 
@@ -182,7 +186,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->124<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->128<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -221,6 +225,18 @@ decoration, utility │ 🖥️: ❌ │ 🗄️: ✔️
 
 ---
 
+<img src="https://cdn.modrinth.com/data/4BLiLbfu/2c86e76d3b1c085598ca7f12450883d86a28fa14_96.webp" align="left" height="160" width="160" />
+
+##### AutoTame
+
+Automatically retries taming horse-like animals until successful, making taming in Minecraft easier.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/autotame) │ [Source](https://github.com/AsOne2020/AutoTame)
+
+---
+
 <img src="https://cdn.modrinth.com/data/6tlhZmC5/icon.png" align="left" height="160" width="160" />
 
 ##### Axolotl Buckets
@@ -254,6 +270,18 @@ Abstraction Layer for Multiplatform Mods
 library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/balm) │ [Source](https://github.com/TwelveIterationMods/Balm)
+
+---
+
+<img src="https://cdn.modrinth.com/data/ONZm0H7Y/9813f4e52f3703e6c561233d7fa639c4d24fcf28.png" align="left" height="160" width="160" />
+
+##### Better Block Entities
+
+A Minecraft optimization mod for Fabric/Sodium that improves FPS / Block Entity Rendering by implementing a Hybrid Renderer.
+
+management, optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/better-block-entities) │ [Source](https://github.com/ceeden/betterblockentities)
 
 ---
 
@@ -965,6 +993,18 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/TjSm1wrD/e1d2433476995be1b1a94ff1afaf6167752274ae_96.webp" align="left" height="160" width="160" />
+
+##### ModernFix-mVUS
+
+A fork of ModernFix that adds minor version update support.
+
+optimization, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/modernfix-mvus) │ [Source](https://github.com/coredex-source/ModernFix---mVUS)
+
+---
+
 <img src="https://cdn.modrinth.com/data/qap5C41G/0e6acc2f3548f392c8d5c760d9c27cf736783927_96.webp" align="left" height="160" width="160" />
 
 ##### ModListMemory
@@ -1575,6 +1615,18 @@ Tech Utils is a mod providing client-side tweaks for Litematica, WorldEdit and o
 management, storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/techutils) │ [Source](https://github.com/Kikugie/techutils)
+
+---
+
+<img src="https://cdn.modrinth.com/data/gejCNKwT/c159be3e166e7c22eb2cc5160b758a161fd90a1b_96.webp" align="left" height="160" width="160" />
+
+##### Toggle Sneak Hotkey
+
+Switch Toggle Sneak/Sprint on or off with one hotkey.
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/toggle-sneak-hotkey) │ [Source](https://github.com/imeesa/toggle-sneak-hotkey)
 
 ---
 
