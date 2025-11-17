@@ -90,6 +90,7 @@
 - [Half Hunger!](https://modrinth.com/resourcepack/half-hunger!)
 - [More Readable Settings](https://modrinth.com/resourcepack/more-readable-settings)
 - [Moon Clock](https://modrinth.com/resourcepack/moon-clock)
+- [Visual Armor Trim](https://modrinth.com/resourcepack/visual-armor-trims)
 - [Redstone Tweaks](https://modrinth.com/resourcepack/redstone-tweaks)
 - [Exact Block Models](https://modrinth.com/resourcepack/exact-block-models)
 - [Chromakey](modrinth.com/resourcepack/chromakey)
@@ -105,6 +106,7 @@
 - [Hippo's Pastel Palette](https://modrinth.com/collection/G4OX1DLZ)
 - [Bray & Cyber's Better, Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books)
 - [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
+- [Enchanted Books: Re-covered](https://modrinth.com/resourcepack/enchanted-books-re-covered)
 - [Remodeled Fence and Gates](https://modrinth.com/resourcepack/remodeled-fence-and-gates)
 
 </details>
@@ -186,7 +188,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->128<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->136<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -285,6 +287,18 @@ management, optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/2JIeCmxb/e8ce320a388b18455e49386aed2ab56578fe19d8_96.webp" align="left" height="160" width="160" />
+
+##### Better F1 Reborn
+
+Hide only the HUD using F1
+
+decoration │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/better-f1-reborn) │ [Source](https://github.com/MovTery/Better-F1-Reborn)
+
+---
+
 <img src="https://cdn.modrinth.com/data/aWsnMli6/cb28e9b5d612bcf1469c4424c8820c18df97a9ce.png" align="left" height="160" width="160" />
 
 ##### Better Game Mode Switcher
@@ -318,6 +332,30 @@ This mod allows you to drag items into the saved hotbars tab and remove them by 
 management, storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/better-saved-hotbars) │ [Source](https://github.com/LukynkaCZE/better-saved-hotbars/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/8iQcgjQ2/icon.png" align="left" height="160" width="160" />
+
+##### Better Command Block UI
+
+Provides a more usable Command Block UI
+
+technology, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/bettercommandblockui) │ [Source](https://github.com/Tectato/BetterCommandBlockUI)
+
+---
+
+<img src="https://cdn.modrinth.com/data/BdKIyOLe/icon.png" align="left" height="160" width="160" />
+
+##### Boat Item View
+
+See your held items when in a moving boat!
+
+adventure, decoration, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/boat-item-view) │ [Source](https://github.com/50ap5ud5/BoatItemView)
 
 ---
 
@@ -438,6 +476,18 @@ Plays a ping sound when your name is mentioned, with options to create custom al
 social, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/chatnotify) │ [Source](https://github.com/TerminalMC/ChatNotify)
+
+---
+
+<img src="https://cdn.modrinth.com/data/JaNmzvA8/df90fed5abc6586308d2f22c9e78adc653dc4cd5_96.webp" align="left" height="160" width="160" />
+
+##### Chunks fade in
+
+A simple mod that adds fade-in animation for chunks!
+
+cursed, decoration, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/chunks-fade-in) │ [Source](https://github.com/kerudion/chunksfadein)
 
 ---
 
@@ -774,6 +824,18 @@ A datapack thats lets you pickup and carry chests and barrels! Move your storage
 game-mechanics, storage, transportation │ 🖥️: 🟡 │ 🗄️: ✔️
 
 [Modrinth](https://modrinth.com/mod/haul-data-pack) │ [Source](https://github.com/maybejake/haul)
+
+---
+
+<img src="https://cdn.modrinth.com/data/tEcWzCZz/39f285a000b8685703bfc5e6939f3f2fb49634f5.png" align="left" height="160" width="160" />
+
+##### Held Item Info
+
+Shows information (like enchantments) about the held item under its name.
+
+decoration, equipment, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/held-item-info) │ [Source](https://github.com/A5b84/held-item-info)
 
 ---
 
@@ -1209,6 +1271,18 @@ decoration │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/ZX66K16c/1c0ee069ad454ad084493cd927eb2c67b2dc2ad9_96.webp" align="left" height="160" width="160" />
+
+##### Pick Up Notifier
+
+Be notified about all the things you've just collected.
+
+utility │ 🖥️: ✔️ │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/pick-up-notifier) │ [Source](https://github.com/Fuzss/pickupnotifier)
+
+---
+
 <img src="https://cdn.modrinth.com/data/QQXAdCzh/6d15088ddd1e07abcba1a2e796d1f9c7a3138b1d_96.webp" align="left" height="160" width="160" />
 
 ##### Ping Wheel
@@ -1254,6 +1328,18 @@ Library for creating better server side content!
 library │ 🖥️: 🟡 │ 🗄️: ✔️
 
 [Modrinth](https://modrinth.com/mod/polymer) │ [Source](https://github.com/Patbox/polymer)
+
+---
+
+<img src="https://cdn.modrinth.com/data/QAGBst4M/c78216c61f65b6ce82593e4e92e9c358402bb524_96.webp" align="left" height="160" width="160" />
+
+##### Puzzles Lib
+
+Why it's called Puzzles, you ask? That's the puzzle!
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/puzzles-lib) │ [Source](https://github.com/Fuzss/puzzleslib)
 
 ---
 
@@ -1434,6 +1520,18 @@ social, utility │ 🖥️: ❓ │ 🗄️: ❓
 management, mobs, utility │ 🖥️: ❌ │ 🗄️: ✔️
 
 [Modrinth](https://modrinth.com/mod/silence-mobs) │ [Source](https://github.com/Serilum/Silence-Mobs)
+
+---
+
+<img src="https://cdn.modrinth.com/data/CllP7wW0/6d787d5cd5fface4fe9a5f6ce0770576bca09132.png" align="left" height="160" width="160" />
+
+##### Smooth Scrolling
+
+Customize the scrolling smoothness or speed in various places like chat, hotbar, creative screen...
+
+decoration, optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/smooth-scroll) │ [Source](https://github.com/SmajloSlovakian/Minecraft-Smooth-Scrolling)
 
 ---
 
