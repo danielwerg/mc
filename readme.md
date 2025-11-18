@@ -188,7 +188,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->136<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->139<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -1127,6 +1127,18 @@ storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/oSeo74JF/2aa09be5f2a383173d1d8596999d9132e7f83938_96.webp" align="left" height="160" width="160" />
+
+##### Move & Chat
+
+Press control to move, still keeping the chat window open!
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/move-and-chat) │ [Source](https://github.com/Ynotnaexists/mic)
+
+---
+
 <img src="https://cdn.modrinth.com/data/XIIGRXeq/3a922be8a8af3b255ee2e57160d7bb3287168df6.png" align="left" height="160" width="160" />
 
 ##### NBT Copy
@@ -1232,6 +1244,18 @@ A simple mod to fix various problems with packets, nbt and timeouts.
 optimization, utility │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/packet-fixer) │ [Source](https://github.com/TonimatasDEV/PacketSizeDoublerForge)
+
+---
+
+<img src="https://cdn.modrinth.com/data/K3RHGadZ/17bf5ef9fa700fb4040b32b7c1048d5e21ee6f75.png" align="left" height="160" width="160" />
+
+##### Panorama Screenshot
+
+Take panorama screenshots just like Mojang!
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/panorama-screenshot) │ [Source](https://github.com/Fridtjof-DE/PanoramaScreenshot)
 
 ---
 
@@ -1460,6 +1484,18 @@ Adds a search bar to the statistics screen to quickly find specific entries.
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/searchstats) │ [Source](https://github.com/TerminalMC/SearchStats)
+
+---
+
+<img src="https://cdn.modrinth.com/data/QeuqDVjP/324783ac8f3085f30264e468089e53b77f57f3c8_96.webp" align="left" height="160" width="160" />
+
+##### ServerLens
+
+A client-side mod that brings the full server preview (MOTD, ping, player count, and favicon) to the Direct-Connect Screen.
+
+management, optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/serverlens) │ [Source](https://github.com/DevKnochen/ServerLens)
 
 ---
 
