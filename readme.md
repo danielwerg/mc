@@ -188,7 +188,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->139<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->138<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -812,18 +812,6 @@ NeoForge's & Forge's config systems provided to other modding ecosystems. Design
 library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/forge-config-api-port) │ [Source](https://github.com/Fuzss/forgeconfigapiport)
-
----
-
-<img src="https://cdn.modrinth.com/data/EdR8bCZO/aec7b9898933cde3fc646977a8c813cab1b228ca_96.webp" align="left" height="160" width="160" />
-
-##### Haul
-
-A datapack thats lets you pickup and carry chests and barrels! Move your storage with ease!
-
-game-mechanics, storage, transportation │ 🖥️: 🟡 │ 🗄️: ✔️
-
-[Modrinth](https://modrinth.com/mod/haul-data-pack) │ [Source](https://github.com/maybejake/haul)
 
 ---
 
