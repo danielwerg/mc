@@ -188,7 +188,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->138<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->137<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -399,7 +399,7 @@ optimization │ 🖥️: 🟡 │ 🗄️: ✔️
 
 ##### Call Your Cat
 
-Easily call/whistle your cat to you with a goat horn!
+Easily call (whistle) your cat with a goat horn to teleport it to you
 
 adventure, equipment, mobs │ 🖥️: 🟡 │ 🗄️: ✔️
 
@@ -447,7 +447,7 @@ adventure, mobs, utility │ 🖥️: 🟡 │ 🗄️: ✔️
 
 ##### Call Your Parrot
 
-Easily call/whistle your parrot with a goat horn!
+Easily call (whistle) your parrot with a goat horn to teleport it to you
 
 adventure, equipment, mobs │ 🖥️: 🟡 │ 🗄️: ✔️
 
@@ -1112,18 +1112,6 @@ Enhances inventory management by adding various functions to the mouse buttons.
 storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/mouse-tweaks) │ [Source](https://github.com/YaLTeR/MouseTweaks)
-
----
-
-<img src="https://cdn.modrinth.com/data/oSeo74JF/2aa09be5f2a383173d1d8596999d9132e7f83938_96.webp" align="left" height="160" width="160" />
-
-##### Move & Chat
-
-Press control to move, still keeping the chat window open!
-
-utility │ 🖥️: ✔️ │ 🗄️: ❌
-
-[Modrinth](https://modrinth.com/mod/move-and-chat) │ [Source](https://github.com/Ynotnaexists/mic)
 
 ---
 
