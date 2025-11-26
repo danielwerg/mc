@@ -128,6 +128,7 @@
 <!-- MODS_SERVER_1.21.10:START -->
 - [Better Enchantment Order](https://modrinth.com/mod/xQAP6sbq)
 - [Blooming Biosphere](https://modrinth.com/mod/Ds9FyUc7)
+- [Bookshelf Inspector](https://modrinth.com/mod/rOrXjyPb)
 - [Bound!](https://modrinth.com/mod/5u5wg6uM)
 - [Bundle as Quiver](https://modrinth.com/mod/IN9qauZM)
 - [Call Your Cat](https://modrinth.com/mod/c4iuUbf6)
@@ -168,6 +169,7 @@
 - [Playtime Command](https://modrinth.com/mod/okeAxC3Y)
 - [PolyDecorations](https://modrinth.com/mod/5710VC7f)
 - [Polymer](https://modrinth.com/mod/xGdtZczs)
+- [Polymer Patch For Servux](https://modrinth.com/mod/NNSx3ydV)
 - [Rail Placement Fix](https://modrinth.com/mod/7z0IZqoa)
 - [Reply](https://modrinth.com/mod/3KVzXQqL)
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/uO522mgw)
@@ -184,6 +186,7 @@
 - [Useful Mobs](https://modrinth.com/mod/elYq283b)
 - [Vanilla Refresh](https://modrinth.com/mod/gWO6Zqey)
 - [WorldEdit](https://modrinth.com/mod/1u6JkXh5)
+- [XaeroNuhUh](https://modrinth.com/mod/hTNkpjj9)
 <!-- MODS_SERVER_1.21.10:END -->
 
 </details>
@@ -1499,6 +1502,18 @@ optimization │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/udjTPuQd/c29391516029ad9c3b77d102f033767909f85697_96.webp" align="left" height="160" width="160" />
+
+##### WITS
+
+(What's In The Shelf?) Identify shelf contents at a glance, hands-free. A client-side utility that shows item info right where you're looking.
+
+adventure, decoration, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/shelf-wits) │ [Source](null)
+
+---
+
 <img src="https://cdn.modrinth.com/data/2M01OLQq/bb490716cf2590cf84100a495931c3d4743bce43_96.webp" align="left" height="160" width="160" />
 
 ##### Shulker Box Tooltip
@@ -1605,18 +1620,6 @@ An immersive overhaul of the space skybox, including planets and better stars.
 decoration │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/spyglass-astronomy) │ [Source](https://github.com/Nettakrim/Spyglass-Astronomy)
-
----
-
-<img src="https://cdn.modrinth.com/data/o1YyKVqu/bdff8e6b94a83d544637308eadb8478af54ec380.png" align="left" height="160" width="160" />
-
-##### Spyglass Keybind
-
-Simple mod that adds keybind (Z by default) for Spyglass quick access
-
-equipment, game-mechanics, utility │ 🖥️: ✔️ │ 🗄️: ❌
-
-[Modrinth](https://modrinth.com/mod/spyglass-keybind) │ [Source](https://github.com/danielwerg/spyglass-keybind)
 
 ---
 

@@ -1,5 +1,6 @@
 MR xQAP6sbq  Better Enchantment Order
 MR Ds9FyUc7  Blooming Biosphere
+MR rOrXjyPb  Bookshelf Inspector
 MR 5u5wg6uM  Bound!
 MR IN9qauZM  Bundle as Quiver
 MR c4iuUbf6  Call Your Cat
@@ -40,6 +41,7 @@ MR QQXAdCzh  Ping Wheel
 MR okeAxC3Y  Playtime Command
 MR 5710VC7f  PolyDecorations
 MR xGdtZczs  Polymer
+MR NNSx3ydV  Polymer Patch For Servux
 MR 7z0IZqoa  Rail Placement Fix
 MR 3KVzXQqL  Reply
 MR uO522mgw  Scaffolding Drops Nearby
@@ -56,3 +58,4 @@ MR MCnBYP0b  True Ending - Ender Dragon Overhaul
 MR elYq283b  Useful Mobs
 MR gWO6Zqey  Vanilla Refresh
 MR 1u6JkXh5  WorldEdit
+MR hTNkpjj9  XaeroNuhUh
