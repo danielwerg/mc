@@ -191,7 +191,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->137<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->139<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -818,6 +818,18 @@ library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/1yJAgoZV/d72c8c48b1e66437d64b667f1042edfa780c841e_96.webp" align="left" height="160" width="160" />
+
+##### Head Browser
+
+Client side mod to browse and get over 80,000 unique Minecraft heads
+
+decoration, management, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/headbrowser) │ [Source](https://github.com/TheVoidBlock/HeadBrowser/)
+
+---
+
 <img src="https://cdn.modrinth.com/data/tEcWzCZz/39f285a000b8685703bfc5e6939f3f2fb49634f5.png" align="left" height="160" width="160" />
 
 ##### Held Item Info
@@ -1211,6 +1223,18 @@ Instantly join your last Minecraft server from the main menu!
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/one-click-join) │ [Source](https://github.com/caoimhebyrne/one-click-join)
+
+---
+
+<img src="https://cdn.modrinth.com/data/ccKDOlHs/42c9fe358c72dd5afda078271c574c325e963d19_96.webp" align="left" height="160" width="160" />
+
+##### oωo (owo-lib)
+
+A general utility, GUI and config library for modding on Fabric and Quilt
+
+library │ 🖥️: ✔️ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/owo-lib) │ [Source](https://github.com/glisco03/owo-lib)
 
 ---
 
