@@ -189,6 +189,18 @@
 - [XaeroNuhUh](https://modrinth.com/mod/hTNkpjj9)
 <!-- MODS_SERVER_1.21.10:END -->
 
+---
+
+- [Tread Lightly](https://modrinth.com/datapack/tread-lightly)
+- [Shulker Boxes Names](https://modrinth.com/datapack/shulker-boxes-names)
+- [Painting Table](https://modrinth.com/datapack/painting-table)
+- [Better Item Frames](https://modrinth.com/datapack/kawamood-better-item-frames)
+- [Miner's Helmet](https://modrinth.com/datapack/mining-helmet)
+- [Copper Wrench](https://modrinth.com/datapack/copperwrench)
+- [Bookshelf Inspector](https://modrinth.com/datapack/gm4-bookshelf-inspector)
+- [Silence Mobs](vanillatweaks.net/share#bLHqNV)
+- [Redstone Rotation Wrench](vanillatweaks.net/share#HeCHGf)
+
 </details>
 
 Total count: **<!-- MODS_COUNT_1.21.10:START -->139<!-- MODS_COUNT_1.21.10:END -->**
