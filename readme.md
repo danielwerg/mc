@@ -205,7 +205,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->139<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->142<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -292,7 +292,7 @@ library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ---
 
-<img src="https://cdn.modrinth.com/data/ONZm0H7Y/9813f4e52f3703e6c561233d7fa639c4d24fcf28.png" align="left" height="160" width="160" />
+<img src="https://cdn.modrinth.com/data/ONZm0H7Y/142bd2d8cd1051336c56c2a558f28cc3cce3a20d.png" align="left" height="160" width="160" />
 
 ##### Better Block Entities
 
@@ -1060,6 +1060,18 @@ management, optimization, worldgen │ 🖥️: ❌ │ 🗄️: ✔️
 
 ---
 
+<img src="https://cdn.modrinth.com/data/codAaoxh/76ce92742fea39dadbf9a68a389b4690f10ebd52_96.webp" align="left" height="160" width="160" />
+
+##### MidnightLib
+
+Common library providing a lightweight configuration system
+
+library, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/midnightlib) │ [Source](https://github.com/TeamMidnightDust/MidnightLib)
+
+---
+
 <img src="https://cdn.modrinth.com/data/UMxybHE8/4adf057a251f694983af139a06839e33bcd7a419.png" align="left" height="160" width="160" />
 
 ##### MiniHUD
@@ -1588,6 +1600,18 @@ management, mobs, utility │ 🖥️: ❌ │ 🗄️: ✔️
 
 ---
 
+<img src="https://cdn.modrinth.com/data/ShlEFXjF/9f529990c426927a76902cb94a9e792c373890cb_96.webp" align="left" height="160" width="160" />
+
+##### Silent Mobs/Minecarts
+
+Name noisy mobs or minecarts "silent" to silence them!
+
+game-mechanics, mobs, utility │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/silent-mobs) │ [Source](null)
+
+---
+
 <img src="https://cdn.modrinth.com/data/CllP7wW0/6d787d5cd5fface4fe9a5f6ce0770576bca09132.png" align="left" height="160" width="160" />
 
 ##### Smooth Scrolling
@@ -1790,6 +1814,18 @@ Shows how many times you can use a trade before restock.
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/trade-uses) │ [Source](https://github.com/Khajiitos/TradeUses)
+
+---
+
+<img src="https://cdn.modrinth.com/data/BflFQ6iN/1167ea81904d6a14f8e93661865cfb1d4b171230_96.webp" align="left" height="160" width="160" />
+
+##### Training Dummy
+
+Adds a Training Dummy so you can test your weapons attack damage as see how many heart you would take from another player or entity.
+
+game-mechanics, utility │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/training-dummy) │ [Source](https://github.com/Silentcat12/Training-Dummy)
 
 ---
 
