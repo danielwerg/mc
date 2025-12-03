@@ -177,16 +177,18 @@
 - [Servux](https://modrinth.com/mod/zQhsx8KF)
 - [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq)
 - [Silence Mobs](https://modrinth.com/mod/rpmGvDKs)
+- [Silent Mobs/Minecarts](https://modrinth.com/mod/ShlEFXjF)
 - [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
 - [Storage Pots](https://modrinth.com/mod/7z6B7o9b)
 - [Suggestion Tweaker](https://modrinth.com/mod/MBLj38R0)
 - [Swift Ghasts](https://modrinth.com/mod/RTBZXjdc)
 - [Syncmatica](https://modrinth.com/mod/bfneejKo)
+- [Training Dummy](https://modrinth.com/mod/BflFQ6iN)
 - [True Ending - Ender Dragon Overhaul](https://modrinth.com/mod/MCnBYP0b)
 - [Useful Mobs](https://modrinth.com/mod/elYq283b)
 - [Vanilla Refresh](https://modrinth.com/mod/gWO6Zqey)
 - [WorldEdit](https://modrinth.com/mod/1u6JkXh5)
-- [XaeroNuhUh](https://modrinth.com/mod/hTNkpjj9)
+- [Xaero's Map Server Utils](https://modrinth.com/mod/YJgkgKMm)
 <!-- MODS_SERVER_1.21.10:END -->
 
 ---
@@ -198,8 +200,8 @@
 - [Miner's Helmet](https://modrinth.com/datapack/mining-helmet)
 - [Copper Wrench](https://modrinth.com/datapack/copperwrench)
 - [Bookshelf Inspector](https://modrinth.com/datapack/gm4-bookshelf-inspector)
-- [Silence Mobs](vanillatweaks.net/share#bLHqNV)
-- [Redstone Rotation Wrench](vanillatweaks.net/share#HeCHGf)
+- [Silence Mobs](https://vanillatweaks.net/share#bLHqNV)
+- [Redstone Rotation Wrench](https://vanillatweaks.net/share#HeCHGf)
 
 </details>
 

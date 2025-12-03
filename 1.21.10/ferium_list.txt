@@ -49,13 +49,15 @@ MR Ps1zyz6x  ScalableLux
 MR zQhsx8KF  Servux
 MR 2M01OLQq  Shulker Box Tooltip
 MR rpmGvDKs  Silence Mobs
+MR ShlEFXjF  Silent Mobs/Minecarts
 MR qyVF9oeo  Sound Physics Remastered
 MR 7z6B7o9b  Storage Pots
 MR MBLj38R0  Suggestion Tweaker
 MR RTBZXjdc  Swift Ghasts
 MR bfneejKo  Syncmatica
+MR BflFQ6iN  Training Dummy
 MR MCnBYP0b  True Ending - Ender Dragon Overhaul
 MR elYq283b  Useful Mobs
 MR gWO6Zqey  Vanilla Refresh
 MR 1u6JkXh5  WorldEdit
-MR hTNkpjj9  XaeroNuhUh
+MR YJgkgKMm  Xaero's Map Server Utils
