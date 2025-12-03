@@ -202,10 +202,11 @@
 - [Bookshelf Inspector](https://modrinth.com/datapack/gm4-bookshelf-inspector)
 - [Silence Mobs](https://vanillatweaks.net/share#bLHqNV)
 - [Redstone Rotation Wrench](https://vanillatweaks.net/share#HeCHGf)
+- [BONK](https://modrinth.com/mod/villager-bonk)
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->142<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->148<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -277,6 +278,18 @@ Optimization mod that focuses on things other than rendering
 optimization │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/badoptimizations) │ [Source](https://github.com/ItsThosea/BadOpitmizations)
+
+---
+
+<img src="https://cdn.modrinth.com/data/ftdbN0KK/icon.png" align="left" height="160" width="160" />
+
+##### bad packets
+
+Bad Packets allows packet messaging between different modding platforms.
+
+library │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/badpackets) │ [Source](https://github.com/badasintended/badpackets)
 
 ---
 
@@ -1504,6 +1517,18 @@ decoration, management, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/eo0oheIy/e2059a5da991f98ade159a5fa4a080bdf7296302.gif" align="left" height="160" width="160" />
+
+##### Seamless Trading
+
+New trade offers appear instantly as soon as the villager XP progress bar fills. No more level up and trade refresh delay.
+
+– │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/seamless-trading) │ [Source](null)
+
+---
+
 <img src="https://cdn.modrinth.com/data/ExI7GmJi/486442e11cbb4ab5f887e7f86ff041787d967c89_96.webp" align="left" height="160" width="160" />
 
 ##### Search Stats
@@ -1889,6 +1914,30 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/K9NymiS6/c137b218371c5f8ae7b9d177f5f76d5cc4fd13e1_96.webp" align="left" height="160" width="160" />
+
+##### BONK
+
+Bonk a villager with a shovel to reset their trades
+
+cursed, utility │ 🖥️: ❌ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/villager-bonk) │ [Source](https://github.com/olillin/bonk)
+
+---
+
+<img src="https://cdn.modrinth.com/data/ESa9RivE/47c70ee353cf4972aeda9d70268834f9e658c8bc_96.webp" align="left" height="160" width="160" />
+
+##### Villager Inventory Plugin for Hwyla forks
+
+Show villager's inventory slots to Jade/WTHIT's tooltip.
+
+utility │ 🖥️: ✔️ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/villager-inventory-hwyla-plugin) │ [Source](https://github.com/kphrx/villager-inventory-hwyla-plugin)
+
+---
+
 <img src="https://cdn.modrinth.com/data/1u6JkXh5/30698991048ced77e60c4e8284007d3782f2e6a3_96.webp" align="left" height="160" width="160" />
 
 ##### WorldEdit
@@ -1903,6 +1952,18 @@ library, management, utility │ 🖥️: ❌ │ 🗄️: ✔️
 
 ---
 
+<img src="https://cdn.modrinth.com/data/6AQIaxuO/2bd96dccf28d264598c2c5f5a46c1d57561841a2_96.webp" align="left" height="160" width="160" />
+
+##### WTHIT
+
+What the hell is that? A Waila/Hwyla fork.
+
+library, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/wthit) │ [Source](https://github.com/badasintended/wthit)
+
+---
+
 <img src="https://cdn.modrinth.com/data/1eAoo2KR/08c0cd32515e260f4bb20bbc0696510041523f9a_96.webp" align="left" height="160" width="160" />
 
 ##### YetAnotherConfigLib (YACL)
@@ -1912,6 +1973,18 @@ A builder-based configuration library for Minecraft.
 library, management, utility │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/yacl) │ [Source](https://github.com/isXander/YetAnotherConfigLib)
+
+---
+
+<img src="https://cdn.modrinth.com/data/1uiuiEVt/3b6b74aa9d4989063efb81d1bf4a9bf1b731c373_96.webp" align="left" height="160" width="160" />
+
+##### Your Reputation (WTHIT)
+
+A WTHIT plugin that displays your reputation on the villagers' tooltips.
+
+cursed, utility │ 🖥️: ✔️ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/your-reputation-wthit) │ [Source](https://github.com/Aton-Kish/your-reputation)
 <!-- MODS_1.21.10:END -->
 
 ---

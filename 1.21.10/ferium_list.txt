@@ -1,3 +1,4 @@
+MR ftdbN0KK  bad packets
 MR xQAP6sbq  Better Enchantment Order
 MR Ds9FyUc7  Blooming Biosphere
 MR rOrXjyPb  Bookshelf Inspector
@@ -23,6 +24,7 @@ MR LbGT0kSV  Dungeons and Taverns Stronghold Overhaul LITE edition
 MR 6kKLK5i1  Eclipse's Tweakeroo Additions
 MR 8SrsIkt3  Entity Information
 MR P7dR8mSH  Fabric API
+MR Ha28R6CL  Fabric Language Kotlin
 MR ZHKrK8Rp  Fast Backups
 MR uXXizFIs  FerriteCore
 MR Und6ZcdR  Fortune
@@ -36,6 +38,7 @@ MR GcWjdA9I  MaLiLib
 MR gzfqBTYf  MC-258859
 MR XIIGRXeq  NBT Copy
 MR qQyHxfxd  No Chat Reports
+MR ccKDOlHs  oωo (owo-lib)
 MR IMX3sJBx  Phantom Membrane
 MR QQXAdCzh  Ping Wheel
 MR okeAxC3Y  Playtime Command
@@ -46,6 +49,7 @@ MR 7z0IZqoa  Rail Placement Fix
 MR 3KVzXQqL  Reply
 MR uO522mgw  Scaffolding Drops Nearby
 MR Ps1zyz6x  ScalableLux
+MR eo0oheIy  Seamless Trading
 MR zQhsx8KF  Servux
 MR 2M01OLQq  Shulker Box Tooltip
 MR rpmGvDKs  Silence Mobs
@@ -55,9 +59,13 @@ MR 7z6B7o9b  Storage Pots
 MR MBLj38R0  Suggestion Tweaker
 MR RTBZXjdc  Swift Ghasts
 MR bfneejKo  Syncmatica
+MR IVeGzYjl  Team Cure
 MR BflFQ6iN  Training Dummy
 MR MCnBYP0b  True Ending - Ender Dragon Overhaul
 MR elYq283b  Useful Mobs
 MR gWO6Zqey  Vanilla Refresh
+MR ESa9RivE  Villager Inventory Plugin for Hwyla forks
 MR 1u6JkXh5  WorldEdit
+MR 6AQIaxuO  WTHIT
 MR YJgkgKMm  Xaero's Map Server Utils
+MR 1uiuiEVt  Your Reputation (WTHIT)
