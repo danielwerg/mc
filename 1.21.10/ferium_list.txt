@@ -1,3 +1,4 @@
+MR lhGA9TYQ  Architectury API
 MR ftdbN0KK  bad packets
 MR xQAP6sbq  Better Enchantment Order
 MR Ds9FyUc7  Blooming Biosphere
@@ -28,6 +29,7 @@ MR Ha28R6CL  Fabric Language Kotlin
 MR ZHKrK8Rp  Fast Backups
 MR uXXizFIs  FerriteCore
 MR Und6ZcdR  Fortune
+MR eGsxiKjX  Freight Ghast
 MR hl5OLM95  Geophilic
 MR P1eWgBlz  Hero's Journey
 MR DosZdmJF  Jake's Build Tools

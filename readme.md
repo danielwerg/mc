@@ -126,6 +126,8 @@
 <summary>Server</summary>
 
 <!-- MODS_SERVER_1.21.10:START -->
+- [Architectury API](https://modrinth.com/mod/lhGA9TYQ)
+- [bad packets](https://modrinth.com/mod/ftdbN0KK)
 - [Better Enchantment Order](https://modrinth.com/mod/xQAP6sbq)
 - [Blooming Biosphere](https://modrinth.com/mod/Ds9FyUc7)
 - [Bookshelf Inspector](https://modrinth.com/mod/rOrXjyPb)
@@ -151,9 +153,11 @@
 - [Eclipse's Tweakeroo Additions](https://modrinth.com/mod/6kKLK5i1)
 - [Entity Information](https://modrinth.com/mod/8SrsIkt3)
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH)
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL)
 - [Fast Backups](https://modrinth.com/mod/ZHKrK8Rp)
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs)
 - [Fortune](https://modrinth.com/mod/Und6ZcdR)
+- [Freight Ghast](https://modrinth.com/mod/eGsxiKjX)
 - [Geophilic](https://modrinth.com/mod/hl5OLM95)
 - [Hero's Journey](https://modrinth.com/mod/P1eWgBlz)
 - [Jake's Build Tools](https://modrinth.com/mod/DosZdmJF)
@@ -164,6 +168,7 @@
 - [MC-258859](https://modrinth.com/mod/gzfqBTYf)
 - [NBT Copy](https://modrinth.com/mod/XIIGRXeq)
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd)
+- [oωo (owo-lib)](https://modrinth.com/mod/ccKDOlHs)
 - [Phantom Membrane](https://modrinth.com/mod/IMX3sJBx)
 - [Ping Wheel](https://modrinth.com/mod/QQXAdCzh)
 - [Playtime Command](https://modrinth.com/mod/okeAxC3Y)
@@ -174,6 +179,7 @@
 - [Reply](https://modrinth.com/mod/3KVzXQqL)
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/uO522mgw)
 - [ScalableLux](https://modrinth.com/mod/Ps1zyz6x)
+- [Seamless Trading](https://modrinth.com/mod/eo0oheIy)
 - [Servux](https://modrinth.com/mod/zQhsx8KF)
 - [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq)
 - [Silence Mobs](https://modrinth.com/mod/rpmGvDKs)
@@ -183,12 +189,16 @@
 - [Suggestion Tweaker](https://modrinth.com/mod/MBLj38R0)
 - [Swift Ghasts](https://modrinth.com/mod/RTBZXjdc)
 - [Syncmatica](https://modrinth.com/mod/bfneejKo)
+- [Team Cure](https://modrinth.com/mod/IVeGzYjl)
 - [Training Dummy](https://modrinth.com/mod/BflFQ6iN)
 - [True Ending - Ender Dragon Overhaul](https://modrinth.com/mod/MCnBYP0b)
 - [Useful Mobs](https://modrinth.com/mod/elYq283b)
 - [Vanilla Refresh](https://modrinth.com/mod/gWO6Zqey)
+- [Villager Inventory Plugin for Hwyla forks](https://modrinth.com/mod/ESa9RivE)
 - [WorldEdit](https://modrinth.com/mod/1u6JkXh5)
+- [WTHIT](https://modrinth.com/mod/6AQIaxuO)
 - [Xaero's Map Server Utils](https://modrinth.com/mod/YJgkgKMm)
+- [Your Reputation (WTHIT)](https://modrinth.com/mod/1uiuiEVt)
 <!-- MODS_SERVER_1.21.10:END -->
 
 ---
@@ -206,7 +216,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->148<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->152<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -230,6 +240,18 @@ Shows how many times an anvil has been used on an item.
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/anvil-uses) │ [Source](https://github.com/Z1proW/Anvil-Uses)
+
+---
+
+<img src="https://cdn.modrinth.com/data/lhGA9TYQ/05fe3a61c28faaccaec3533b92e1b321edde7bf6_96.webp" align="left" height="160" width="160" />
+
+##### Architectury API
+
+An intermediary api aimed to ease developing multiplatform mods.
+
+library │ 🖥️: ✔️ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/architectury-api) │ [Source](https://github.com/architectury/architectury)
 
 ---
 
@@ -842,6 +864,30 @@ NeoForge's & Forge's config systems provided to other modding ecosystems. Design
 library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/forge-config-api-port) │ [Source](https://github.com/Fuzss/forgeconfigapiport)
+
+---
+
+<img src="https://cdn.modrinth.com/data/eGsxiKjX/855314528ed172f535e5f5fb48b27475b7ad21fa.png" align="left" height="160" width="160" />
+
+##### Freight Ghast
+
+Gives happy Ghasts the ability to hold chests.
+
+transportation │ 🖥️: ✔️ │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/freight-ghast) │ [Source](https://github.com/HerrChaos/Freight-Ghast)
+
+---
+
+<img src="https://cdn.modrinth.com/data/89IEFOuk/263411857ae7b62101b9d80cbc657ff2cd0b28b6_96.webp" align="left" height="160" width="160" />
+
+##### Ghast Autopilot
+
+Tired of holding down the forward key to fly your Happy Ghast around?
+
+game-mechanics, mobs, transportation │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/ghast-autopilot) │ [Source](https://github.com/Smootheez/Ghast-Autopilot)
 
 ---
 
@@ -1646,6 +1692,18 @@ Customize the scrolling smoothness or speed in various places like chat, hotbar,
 decoration, optimization, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/smooth-scroll) │ [Source](https://github.com/SmajloSlovakian/Minecraft-Smooth-Scrolling)
+
+---
+
+<img src="https://cdn.modrinth.com/data/6fGnR7UP/a0c4181f6c782ea0a78f1ee20f788abc5a34142d_96.webp" align="left" height="160" width="160" />
+
+##### Smoothiez Api
+
+Minecraft Mod to provide boilerplate code for all of Smootheez's Mods
+
+library │ 🖥️: ✔️ │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/smoothiez-api) │ [Source](https://github.com/Smootheez/Smoothiez-Api)
 
 ---
 
