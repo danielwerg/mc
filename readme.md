@@ -216,7 +216,7 @@
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->152<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->165<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -324,6 +324,18 @@ Abstraction Layer for Multiplatform Mods
 library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/balm) │ [Source](https://github.com/TwelveIterationMods/Balm)
+
+---
+
+<img src="https://cdn.modrinth.com/data/Q2OqKxDG/b1519a191e62135647f66394d526d179ab5b598d.png" align="left" height="160" width="160" />
+
+##### Better Advancements
+
+Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/better-advancements) │ [Source](https://github.com/way2muchnoise/BetterAdvancements)
 
 ---
 
@@ -507,6 +519,54 @@ adventure, equipment, mobs │ 🖥️: 🟡 │ 🗄️: ✔️
 
 ---
 
+<img src="https://cdn.modrinth.com/data/2O3YTVOd/2ec959128e03ba344e0cf9b630cd22566fcabb81_96.webp" align="left" height="160" width="160" />
+
+##### Carpet Extra Extras
+
+Even more features for the carpet mod.
+
+game-mechanics, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/carpet-extra-extras) │ [Source](https://github.com/Thedustbustr/Carpet-Extra-Extras)
+
+---
+
+<img src="https://cdn.modrinth.com/data/L0bOPIqR/45083c9905111c7d620b9ab4d3d3dc12a51d0d36_96.webp" align="left" height="160" width="160" />
+
+##### Carpet Org Addition
+
+This is an expansion mod for Carpet that offers some useful or useless features, which does not change the mechanics of any game by default, and all features need to be turned on manually
+
+game-mechanics, utility │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/carpet-org-addition) │ [Source](https://github.com/fcsailboat/Carpet-Org-Addition)
+
+---
+
+<img src="https://cdn.modrinth.com/data/jE0SjGuf/0eb2c1c34fee3c75e5fdadd7274d071445b80e9e_96.webp" align="left" height="160" width="160" />
+
+##### Carpet TIS Addition
+
+A Carpet mod (fabric-carpet) extension, a collection of carpet mod style useful tools and interesting features
+
+game-mechanics, utility │ 🖥️: 🟡 │ 🗄️: 🟡
+
+[Modrinth](https://modrinth.com/mod/carpet-tis-addition) │ [Source](https://github.com/TISUnion/Carpet-TIS-Addition)
+
+---
+
+<img src="https://cdn.modrinth.com/data/TQTTVgYE/3ad650635d067b6bfa09403cf5e70e0947a05c07_96.webp" align="left" height="160" width="160" />
+
+##### Carpet
+
+Take full control over your vanilla game
+
+game-mechanics, utility │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/carpet) │ [Source](https://github.com/gnembon/fabric-carpet)
+
+---
+
 <img src="https://cdn.modrinth.com/data/Wb5oqrBJ/icon.png" align="left" height="160" width="160" />
 
 ##### Chat Heads
@@ -531,6 +591,18 @@ social, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/3azQ6p0W/14d3a7430f4e834fc0a86d228c6e17e5b9b33a0a.png" align="left" height="160" width="160" />
+
+##### Cherished Worlds
+
+Favorite/pin/bookmark certain worlds, which will always be at the top of the list and cannot be deleted.
+
+management, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/cherished-worlds) │ [Source](https://github.com/illusivesoulworks/cherishedworlds/)
+
+---
+
 <img src="https://cdn.modrinth.com/data/JaNmzvA8/df90fed5abc6586308d2f22c9e78adc653dc4cd5_96.webp" align="left" height="160" width="160" />
 
 ##### Chunks fade in
@@ -547,7 +619,7 @@ cursed, decoration, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ##### ClickThrough Plus
 
-Click through Signs and Item Frames to Chests and other containers - a port of ClickThrough to Architectury.
+Click through Signs and Item Frames to Chests and other containers - a port of ClickThrough to modern versions.
 
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
@@ -627,6 +699,18 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/xv94TkTM/bdb6feb3d04ca37da4ed5aa73fef062a39d8b3e5_96.webp" align="left" height="160" width="160" />
+
+##### Controlling
+
+Adds a search bar to the Key-Bindings menu
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/controlling) │ [Source](https://github.com/jaredlll08/Controlling)
+
+---
+
 <img src="https://cdn.modrinth.com/data/iDyqnQLT/a252e26685c30f1ae82a47b087b01fa6b968a6f1_96.webp" align="left" height="160" width="160" />
 
 ##### Cool Rain
@@ -635,7 +719,7 @@ Creates ambient sounds for certain blocks during rain
 
 decoration, game-mechanics │ 🖥️: ✔️ │ 🗄️: 🟡
 
-[Modrinth](https://modrinth.com/mod/coolrain) │ [Source](null)
+[Modrinth](https://modrinth.com/mod/coolrain) │ [Source](https://github.com/Jaiz15/CoolRain_1.21.8)
 
 ---
 
@@ -663,6 +747,18 @@ library │ 🖥️: ✔️ │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/hd2YH2vf/9a7c711f6a6b86a02a903b54fe40e2883a7b6db6.png" align="left" height="160" width="160" />
+
+##### Crop & Kettle
+
+A cozy cooking datapack that adds new food, crops and more! Over 100 recipes!
+
+adventure, decoration, food │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/crop-and-kettle) │ [Source](https://github.com/maybejake/crop-and-kettle)
+
+---
+
 <img src="https://cdn.modrinth.com/data/c85whkNB/419e8bc32e8ab5b7b63a7388c1319106365f99e1_96.webp" align="left" height="160" width="160" />
 
 ##### Cycle Paintings
@@ -675,6 +771,18 @@ library │ 🖥️: ✔️ │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/MyE3e8qp/0ee81d5e6d018474c60d845e7b83f101d90e285c_96.webp" align="left" height="160" width="160" />
+
+##### Don't Stop Crouching
+
+With the new versions of minecraft making you uncrouch in guis with this mod the problem is no more!
+
+game-mechanics, optimization │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/dont-stop-crouching) │ [Source](https://github.com/har3nz/dontstopcrouching)
+
+---
+
 <img src="https://cdn.modrinth.com/data/T8MMXTpr/d338decae13e71b934605932901921c4d72b8b6f_96.webp" align="left" height="160" width="160" />
 
 ##### Drip Sounds
@@ -684,18 +792,6 @@ Adds sounds for drip particles landing & settings for block particles
 decoration │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/dripsounds) │ [Source](https://github.com/PieKing1215/DripSounds-Fabric)
-
----
-
-<img src="https://cdn.modrinth.com/data/IMch8an1/81ec6fe5a1258e6c05df46790c0c2db345c1b4ed.png" align="left" height="160" width="160" />
-
-##### DualBar
-
-Show the locator bar icons over the experience bar.
-
-game-mechanics, social, utility │ 🖥️: ✔️ │ 🗄️: ❌
-
-[Modrinth](https://modrinth.com/mod/dualbar) │ [Source](https://git.envs.net/piuvas/dualbar)
 
 ---
 
@@ -891,6 +987,18 @@ game-mechanics, mobs, transportation │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/LnG7iWcI/c152d1ba0eececfc052344cef4cdb03956856ef6_96.webp" align="left" height="160" width="160" />
+
+##### Happy Ghast Stopper
+
+A Mod / Datapack that stops the Happy Ghast from roaming around AUTOMATICALLY!
+
+game-mechanics, mobs │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/happy-ghast-stopper) │ [Source](null)
+
+---
+
 <img src="https://cdn.modrinth.com/data/1yJAgoZV/d72c8c48b1e66437d64b667f1042edfa780c841e_96.webp" align="left" height="160" width="160" />
 
 ##### Head Browser
@@ -972,6 +1080,18 @@ A client mod that adds many shortcuts to move items easier and craft faster in i
 management, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/item-scroller) │ [Source](https://github.com/maruohon/itemscroller/)
+
+---
+
+<img src="https://cdn.modrinth.com/data/DosZdmJF/be8316895245b30f061a4cf8193bfadbd4907c7f_96.webp" align="left" height="160" width="160" />
+
+##### Jake's Build Tools
+
+Adds a bunch of craftable tools that help make building easier! Trowel, chisel, hammer and so much more!
+
+adventure, equipment, utility │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/jakes-build-tools) │ [Source](https://github.com/maybejake/Jakes-Build-Tools)
 
 ---
 
@@ -1068,6 +1188,30 @@ No-compromises game logic optimization mod. Well suited for clients and servers 
 optimization │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/lithium) │ [Source](https://github.com/caffeinemc/lithium-fabric)
+
+---
+
+<img src="https://cdn.modrinth.com/data/L4pt5egz/933e270e6b68639189f618948f11d3828597df39.png" align="left" height="160" width="160" />
+
+##### Locator Heads
+
+Show player heads on the locator bar and other usefull settings.
+
+game-mechanics, social, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/locator-heads) │ [Source](https://github.com/Haage001/locator-heads)
+
+---
+
+<img src="https://cdn.modrinth.com/data/pMBcsVIg/a54a8981668c595fcad6bd497b763d10d5e18325_96.webp" align="left" height="160" width="160" />
+
+##### Locator Lodestones
+
+Adds Lodestones to the Player Locator Bar
+
+adventure, equipment, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/locator_lodestones) │ [Source](https://github.com/PneumonoIsNotAvailable/LocatorLodestones)
 
 ---
 
@@ -1179,6 +1323,18 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
+<img src="https://cdn.modrinth.com/data/XKoaSG4i/9f371f4f8df34351798c1b180b825767009be8dd.png" align="left" height="160" width="160" />
+
+##### Mod Menu Command
+
+Simple mod which provides /mods and /config commands to open mods list or specific mod config
+
+utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/modmenuc) │ [Source](https://github.com/bleudev/mmc)
+
+---
+
 <img src="https://cdn.modrinth.com/data/8qkXwOnk/icon.png" align="left" height="160" width="160" />
 
 ##### More Chat History
@@ -1236,18 +1392,6 @@ Makes chat unreportable (where possible)
 social, utility │ 🖥️: 🟡 │ 🗄️: 🟡
 
 [Modrinth](https://modrinth.com/mod/no-chat-reports) │ [Source](https://github.com/Aizistral-Studios/No-Chat-Reports)
-
----
-
-<img src="https://cdn.modrinth.com/data/LoXPgYhm/ea903366c90c864a2ad108472c28c5043ed0a982.png" align="left" height="160" width="160" />
-
-##### No Prying Eyes
-
-Provides full control over your data; namely telemetry and chat reporting.
-
-management, social, utility │ 🖥️: 🟡 │ 🗄️: 🟡
-
-[Modrinth](https://modrinth.com/mod/no-prying-eyes) │ [Source](https://github.com/Daxanius/NoPryingEyes)
 
 ---
 
@@ -1575,6 +1719,18 @@ New trade offers appear instantly as soon as the villager XP progress bar fills.
 
 ---
 
+<img src="https://cdn.modrinth.com/data/fuuu3xnx/206971d54b37b30a2e728b1c194f7f096963d05a_96.webp" align="left" height="160" width="160" />
+
+##### Searchables
+
+Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.
+
+library, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/searchables) │ [Source](https://github.com/jaredlll08/searchables)
+
+---
+
 <img src="https://cdn.modrinth.com/data/ExI7GmJi/486442e11cbb4ab5f887e7f86ff041787d967c89_96.webp" align="left" height="160" width="160" />
 
 ##### Search Stats
@@ -1743,6 +1899,18 @@ adventure, utility │ 🖥️: ✔️ │ 🗄️: 🟡
 
 ---
 
+<img src="https://cdn.modrinth.com/data/2cqWhewT/09c92d27450e184b99f3dfa1fac35141b268f383_96.webp" align="left" height="160" width="160" />
+
+##### Speed Happy Ghast
+
+adds the speed effect to the happy ghast
+
+– │ 🖥️: 🟡 │ 🗄️: ✔️
+
+[Modrinth](https://modrinth.com/mod/speed-happy-ghast) │ [Source](null)
+
+---
+
 <img src="https://cdn.modrinth.com/data/idODwPra/d1a5e1da75154b191cc92c42151e9f4b26a66b04_96.webp" align="left" height="160" width="160" />
 
 ##### Spyglass Astronomy Sync
@@ -1872,7 +2040,7 @@ Tech Utils is a mod providing client-side tweaks for Litematica, WorldEdit and o
 
 management, storage, utility │ 🖥️: ✔️ │ 🗄️: ❌
 
-[Modrinth](https://modrinth.com/mod/techutils) │ [Source](https://github.com/Kikugie/techutils)
+[Modrinth](https://modrinth.com/mod/techutils) │ [Source](https://github.com/VelizarBG/techutils)
 
 ---
 
@@ -1897,18 +2065,6 @@ Shows how many times you can use a trade before restock.
 utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 [Modrinth](https://modrinth.com/mod/trade-uses) │ [Source](https://github.com/Khajiitos/TradeUses)
-
----
-
-<img src="https://cdn.modrinth.com/data/BflFQ6iN/1167ea81904d6a14f8e93661865cfb1d4b171230_96.webp" align="left" height="160" width="160" />
-
-##### Training Dummy
-
-Adds a Training Dummy so you can test your weapons attack damage as see how many heart you would take from another player or entity.
-
-game-mechanics, utility │ 🖥️: 🟡 │ 🗄️: ✔️
-
-[Modrinth](https://modrinth.com/mod/training-dummy) │ [Source](https://github.com/Silentcat12/Training-Dummy)
 
 ---
 

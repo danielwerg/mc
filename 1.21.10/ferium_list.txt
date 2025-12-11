@@ -10,6 +10,7 @@ MR hKvEWvVF  Call Your Dog
 MR UsjYt3wc  Call Your Happy Ghast
 MR QuDyXDNw  Call Your Horse
 MR gkuQygoB  Call Your Parrot
+MR TQTTVgYE  Carpet
 MR 9s6osm5g  Cloth Config API
 MR Wnxd13zP  Clumps
 MR e0M1UDsY  Collective
@@ -31,6 +32,8 @@ MR uXXizFIs  FerriteCore
 MR Und6ZcdR  Fortune
 MR eGsxiKjX  Freight Ghast
 MR hl5OLM95  Geophilic
+MR 7gwuN94K  Ghast Direction
+MR LnG7iWcI  Happy Ghast Stopper
 MR P1eWgBlz  Hero's Journey
 MR DosZdmJF  Jake's Build Tools
 MR u6dRKJwZ  Just Enough Items
@@ -62,7 +65,6 @@ MR MBLj38R0  Suggestion Tweaker
 MR RTBZXjdc  Swift Ghasts
 MR bfneejKo  Syncmatica
 MR IVeGzYjl  Team Cure
-MR BflFQ6iN  Training Dummy
 MR MCnBYP0b  True Ending - Ender Dragon Overhaul
 MR elYq283b  Useful Mobs
 MR gWO6Zqey  Vanilla Refresh
