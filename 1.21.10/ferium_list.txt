@@ -1,3 +1,4 @@
+MR r0v8vy1s  Alternate Current
 MR lhGA9TYQ  Architectury API
 MR ftdbN0KK  bad packets
 MR xQAP6sbq  Better Enchantment Order
@@ -19,8 +20,6 @@ MR VSNURh3q  Concurrent Chunk Management Engine (Fabric)
 MR W3BKUO5F  Copper Wrench
 MR hd2YH2vf  Crop & Kettle
 MR c85whkNB  Cycle Paintings
-MR JaEZg1D1  Death Count
-MR Ge9h6CiG  Dimension tracker + Afk display
 MR tpehi7ww  Dungeons and Taverns
 MR LbGT0kSV  Dungeons and Taverns Stronghold Overhaul LITE edition
 MR 6kKLK5i1  Eclipse's Tweakeroo Additions
@@ -40,21 +39,21 @@ MR u6dRKJwZ  Just Enough Items
 MR 5R7pBCer  Lingering Arrows
 MR gvQqBUqZ  Lithium
 MR GcWjdA9I  MaLiLib
-MR gzfqBTYf  MC-258859
+MR TjSm1wrD  ModernFix-mVUS
 MR XIIGRXeq  NBT Copy
 MR qQyHxfxd  No Chat Reports
+MR hasdd01q  NoisiumForked
 MR ccKDOlHs  oωo (owo-lib)
-MR IMX3sJBx  Phantom Membrane
 MR QQXAdCzh  Ping Wheel
 MR okeAxC3Y  Playtime Command
 MR 5710VC7f  PolyDecorations
 MR xGdtZczs  Polymer
 MR NNSx3ydV  Polymer Patch For Servux
 MR 7z0IZqoa  Rail Placement Fix
-MR 3KVzXQqL  Reply
 MR uO522mgw  Scaffolding Drops Nearby
 MR Ps1zyz6x  ScalableLux
 MR eo0oheIy  Seamless Trading
+MR 4WWQxlQP  ServerCore
 MR zQhsx8KF  Servux
 MR 2M01OLQq  Shulker Box Tooltip
 MR rpmGvDKs  Silence Mobs

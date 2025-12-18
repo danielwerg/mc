@@ -125,7 +125,9 @@
 <details>
 <summary>Server</summary>
 
+<!-- mods tracked by ferium, has a count limit https://github.com/gorilla-devs/ferium/issues/432 -->
 <!-- MODS_SERVER_1.21.10:START -->
+- [Alternate Current](https://modrinth.com/mod/r0v8vy1s)
 - [Architectury API](https://modrinth.com/mod/lhGA9TYQ)
 - [bad packets](https://modrinth.com/mod/ftdbN0KK)
 - [Better Enchantment Order](https://modrinth.com/mod/xQAP6sbq)
@@ -138,6 +140,7 @@
 - [Call Your Happy Ghast](https://modrinth.com/mod/UsjYt3wc)
 - [Call Your Horse](https://modrinth.com/mod/QuDyXDNw)
 - [Call Your Parrot](https://modrinth.com/mod/gkuQygoB)
+- [Carpet](https://modrinth.com/mod/TQTTVgYE)
 - [Cloth Config API](https://modrinth.com/mod/9s6osm5g)
 - [Clumps](https://modrinth.com/mod/Wnxd13zP)
 - [Collective](https://modrinth.com/mod/e0M1UDsY)
@@ -146,8 +149,6 @@
 - [Copper Wrench](https://modrinth.com/mod/W3BKUO5F)
 - [Crop & Kettle](https://modrinth.com/mod/hd2YH2vf)
 - [Cycle Paintings](https://modrinth.com/mod/c85whkNB)
-- [Death Count](https://modrinth.com/mod/JaEZg1D1)
-- [Dimension tracker + Afk display](https://modrinth.com/mod/Ge9h6CiG)
 - [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww)
 - [Dungeons and Taverns Stronghold Overhaul LITE edition](https://modrinth.com/mod/LbGT0kSV)
 - [Eclipse's Tweakeroo Additions](https://modrinth.com/mod/6kKLK5i1)
@@ -159,27 +160,29 @@
 - [Fortune](https://modrinth.com/mod/Und6ZcdR)
 - [Freight Ghast](https://modrinth.com/mod/eGsxiKjX)
 - [Geophilic](https://modrinth.com/mod/hl5OLM95)
+- [Ghast Direction](https://modrinth.com/mod/7gwuN94K)
+- [Happy Ghast Stopper](https://modrinth.com/mod/LnG7iWcI)
 - [Hero's Journey](https://modrinth.com/mod/P1eWgBlz)
 - [Jake's Build Tools](https://modrinth.com/mod/DosZdmJF)
 - [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ)
 - [Lingering Arrows](https://modrinth.com/mod/5R7pBCer)
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ)
 - [MaLiLib](https://modrinth.com/mod/GcWjdA9I)
-- [MC-258859](https://modrinth.com/mod/gzfqBTYf)
+- [ModernFix-mVUS](https://modrinth.com/mod/TjSm1wrD)
 - [NBT Copy](https://modrinth.com/mod/XIIGRXeq)
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd)
+- [NoisiumForked](https://modrinth.com/mod/hasdd01q)
 - [oωo (owo-lib)](https://modrinth.com/mod/ccKDOlHs)
-- [Phantom Membrane](https://modrinth.com/mod/IMX3sJBx)
 - [Ping Wheel](https://modrinth.com/mod/QQXAdCzh)
 - [Playtime Command](https://modrinth.com/mod/okeAxC3Y)
 - [PolyDecorations](https://modrinth.com/mod/5710VC7f)
 - [Polymer](https://modrinth.com/mod/xGdtZczs)
 - [Polymer Patch For Servux](https://modrinth.com/mod/NNSx3ydV)
 - [Rail Placement Fix](https://modrinth.com/mod/7z0IZqoa)
-- [Reply](https://modrinth.com/mod/3KVzXQqL)
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/uO522mgw)
 - [ScalableLux](https://modrinth.com/mod/Ps1zyz6x)
 - [Seamless Trading](https://modrinth.com/mod/eo0oheIy)
+- [ServerCore](https://modrinth.com/mod/4WWQxlQP)
 - [Servux](https://modrinth.com/mod/zQhsx8KF)
 - [Shulker Box Tooltip](https://modrinth.com/mod/2M01OLQq)
 - [Silence Mobs](https://modrinth.com/mod/rpmGvDKs)
@@ -190,7 +193,6 @@
 - [Swift Ghasts](https://modrinth.com/mod/RTBZXjdc)
 - [Syncmatica](https://modrinth.com/mod/bfneejKo)
 - [Team Cure](https://modrinth.com/mod/IVeGzYjl)
-- [Training Dummy](https://modrinth.com/mod/BflFQ6iN)
 - [True Ending - Ender Dragon Overhaul](https://modrinth.com/mod/MCnBYP0b)
 - [Useful Mobs](https://modrinth.com/mod/elYq283b)
 - [Vanilla Refresh](https://modrinth.com/mod/gWO6Zqey)
@@ -203,6 +205,17 @@
 
 ---
 
+untracked mods:
+
+- [BONK](https://modrinth.com/mod/villager-bonk)
+- [Death Count](https://modrinth.com/datapack/death-count)
+- [Dimension tracker + Afk display](https://modrinth.com/datapack/dim-tracker+afk-display)
+- [MC-258859](https://modrinth.com/mod/mc-258859)
+- [Reply](https://modrinth.com/mod/reply)
+- [Speed Happy Ghast](https://modrinth.com/datapack/speed-happy-ghast)
+
+datapacks:
+
 - [Tread Lightly](https://modrinth.com/datapack/tread-lightly)
 - [Shulker Boxes Names](https://modrinth.com/datapack/shulker-boxes-names)
 - [Painting Table](https://modrinth.com/datapack/painting-table)
@@ -212,11 +225,10 @@
 - [Bookshelf Inspector](https://modrinth.com/datapack/gm4-bookshelf-inspector)
 - [Silence Mobs](https://vanillatweaks.net/share#bLHqNV)
 - [Redstone Rotation Wrench](https://vanillatweaks.net/share#HeCHGf)
-- [BONK](https://modrinth.com/mod/villager-bonk)
 
 </details>
 
-Total count: **<!-- MODS_COUNT_1.21.10:START -->165<!-- MODS_COUNT_1.21.10:END -->**
+Total count: **<!-- MODS_COUNT_1.21.10:START -->166<!-- MODS_COUNT_1.21.10:END -->**
 
 <!-- MODS_1.21.10:START -->
 <img src="https://cdn.modrinth.com/data/fM515JnW/9a8eca9c055ec1dd753a7209210fcb22a2d40ff7_96.webp" align="left" height="160" width="160" />
@@ -319,7 +331,7 @@ library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ##### Balm
 
-Abstraction Layer for Multiplatform Mods
+Abstraction Layer for Multi-Loader Mods
 
 library │ 🖥️: 🟡 │ 🗄️: 🟡
 
@@ -1323,7 +1335,7 @@ utility │ 🖥️: ✔️ │ 🗄️: ❌
 
 ---
 
-<img src="https://cdn.modrinth.com/data/XKoaSG4i/9f371f4f8df34351798c1b180b825767009be8dd.png" align="left" height="160" width="160" />
+<img src="https://cdn.modrinth.com/data/XKoaSG4i/ee7a63dbb1d351fb851c8702d62831a617cde28e.png" align="left" height="160" width="160" />
 
 ##### Mod Menu Command
 
@@ -1603,7 +1615,7 @@ library │ 🖥️: 🟡 │ 🗄️: 🟡
 
 ##### Rail Placement Fix
 
-Rail Placement Fix allows you to place rails more precisely. By sneaking and looking at the corner of a block, you can place curved rails or place sloped rails like a top-side slab.
+Rail Placement Fix allows you to place rails more precisely. Sneak and look at the corner of a block to place curved rails. Place sloped rails like top-side slabs when sneaking.
 
 utility │ 🖥️: 🟡 │ 🗄️: ✔️
 
@@ -2149,6 +2161,18 @@ Show villager's inventory slots to Jade/WTHIT's tooltip.
 utility │ 🖥️: ✔️ │ 🗄️: ✔️
 
 [Modrinth](https://modrinth.com/mod/villager-inventory-hwyla-plugin) │ [Source](https://github.com/kphrx/villager-inventory-hwyla-plugin)
+
+---
+
+<img src="https://cdn.modrinth.com/data/pC9ELBuh/107279586d2efe67e2ac0f8fc06dd5cd6d1dcaca_96.webp" align="left" height="160" width="160" />
+
+##### WaxedIcons
+
+This mod adds a waxed icon to waxed blocks
+
+game-mechanics, management, utility │ 🖥️: ✔️ │ 🗄️: ❌
+
+[Modrinth](https://modrinth.com/mod/waxedicons) │ [Source](https://github.com/FanyaOff/WaxedIcons)
 
 ---
 
